@@ -1,0 +1,48 @@
+# broken links
+Redirect /blog/what-would-i-do         https://www.micahredding.com/blog/what-would-you-have-done/
+Redirect /blog/what-would-you-do       https://www.micahredding.com/blog/what-would-you-have-done/
+Redirect /blog/what-would-i-have-done  https://www.micahredding.com/blog/what-would-you-have-done/
+Redirect /blog/there-is-no-hell-part-1 https://www.micahredding.com/blog/2008/09/15/there-no-hell-part-1/
+
+Redirect /blog/2014/08/28/why-i’m-conservative-fundamentalist-liberal-progressive https://www.micahredding.com/blog/2014/08/28/why-im-conservative-fundamentalist-liberal-progressive/
+
+Redirect /blog/comment/reply/4418 https://www.micahredding.com/blog/2008/09/15/there-no-hell-part-4-scriptures-outer-darkness/
+Redirect /blog/thinking/there-is-no-hell-part-4-the-scriptures-outer-darkness/ https://www.micahredding.com/blog/2008/09/15/there-no-hell-part-4-scriptures-outer-darkness/
+Redirect /blog/there-is-no-hell-part-6-conclusion https://www.micahredding.com/blog/2008/09/15/there-no-hell-part-6-conclusion/
+Redirect /blog/thinking/there-is-no-hell-part-6-conclusion/ https://www.micahredding.com/blog/2008/09/15/there-no-hell-part-6-conclusion/
+
+Redirect /blog/taxonomy/term/2561      https://www.micahredding.com/blog/series/structure-human-hope/
+Redirect /blog/taxonomy/term/2537      https://www.micahredding.com/blog/series/there-no-hell/
+Redirect /blog/taxonomy/term/2539      https://www.micahredding.com/blog/series/apocalypse/
+Redirect /blog/taxonomy/term/2563      https://www.micahredding.com/blog/series/christianity-anthropology/
+Redirect /blog/interpreting-the-bible  https://www.micahredding.com/blog/series/interpreting-bible/
+
+Redirect /blog/node/4593               https://www.micahredding.com/blog/2015/11/02/the-word-transhumanist/
+Redirect /blog/2012/02/14/s            https://www.micahredding.com/blog/2012/02/14/solipsists-fallacy/
+
+Redirect /blog/category/theology       https://www.micahredding.com/blog/theology/
+Redirect /blog/category/transhumanism  https://www.micahredding.com/blog/transhumanism/
+Redirect /blog/node                    https://www.micahredding.com/blog/
+Redirect /blog/feeds/all               https://www.micahredding.com/blog.rss/
+Redirect /blog/rss.xml                 https://www.micahredding.com/blog.rss/
+
+# Old Vanity URLs
+Redirect /group                        http://groups.google.com/group/me-vs-the-world/
+Redirect /xn                           https://www.micahredding.com/list/
+Redirect /future                       https://www.micahredding.com/list/
+Redirect /curve                        https://www.micahredding.com/list/
+Redirect /religion                     https://www.micahredding.com/blog/theology/
+Redirect /ctaim                        http://eepurl.com/HGleH/
+Redirect /cta                          http://groups.google.com/group/christian-transhumanism/
+Redirect /superheroes                  https://docs.google.com/presentation/d/1vgcCSS5HSNyyf17i5S3Xf3c_D3ar6uJB1Wlna81Y2vI/edit#slide=id.p10/
+
+# Current Vanity URLs
+Redirect /+                            https://plus.google.com/110800681150805455169/
+Redirect /fb                           https://facebook.com/micahredding/
+Redirect /twitter                      https://twitter.com/micahtredding/
+Redirect /list                         https://micahredding.us4.list-manage.com/subscribe?u=c9e24ff2e309d9d4edb919a40&id=f2212245c8&group[5][4]=true&group[5][1]=true&group[5][2]=true/
+Redirect /tedx                         https://www.youtube.com/watch?v=seEg2pESYOQ/
+Redirect /hello/tedxcharlotte          https://www.youtube.com/watch?v=hitqlk2f3NI/
+Redirect /hello/tedxtemecula           https://www.youtube.com/watch?v=dCumzWDr8Rk/
+Redirect /hello/tedxnorwiched          https://youtu.be/5V3n9bw1Z9w/
+Redirect /resume                       https://hackmd.io/s/HkV-jeYFN/

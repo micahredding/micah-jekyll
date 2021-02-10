@@ -1,0 +1,71 @@
+---
+SITENAME: 'Micah Redding: Faith and the Future of Humanity'
+DESCRIPTION: Faith, Science, Christianity and Transhumanism
+BLOG_TITLE: 'Micah Redding: Faith in the Future of Humanity'
+BLOG_DESCRIPTION: Science and faith, Christianity and Transhumanism
+HOMEPAGE_TITLE: A Future to Believe In
+HOMEPAGE_SUBTITLE: Reconcile faith &amp; science &bull; Build a Better World
+CTA_BUTTON: Get the TEDx talk
+
+LOGOS:
+- image: TEDx_logo1_dmhodp
+  width: 160
+  crop: scale
+  transformation:
+    effect: grayscale
+  opacity: 25
+- image: wired
+  width: 200
+  crop: scale
+  transformation:
+    effect: grayscale
+  opacity: 20
+- image: bbc
+  width: 160
+  crop: scale
+  transformation:
+    effect: grayscale
+  opacity: 20
+- image: motherboard-logo
+  width: 200
+  crop: scale
+  transformation:
+    effect: grayscale
+  opacity: 25
+- image: huffington-post_fozs7w
+  width: 160
+  height: 160
+  crop: scale
+  transformation:
+    effect: grayscale
+  opacity: 25
+- image: hplus_tstsnz
+  width: 120
+  height: 120
+  crop: scale
+  transformation:
+    effect: negate
+    effect: grayscale
+  opacity: 25
+
+
+ACTIONS:
+- :name: Speaking / Events
+  :url: "/speaking"
+- :name: Podcast
+  :url: https://www.christiantranshumanism.org/podcast
+- :name: Essays by Email
+  :url: "/subscribe"
+- :name: About Me
+  :url: "/bio"
+- :name: Reading List
+  :url: "/books"
+- :name: Twitter
+  :url: https://twitter.com/micahtredding
+  :rel: me
+- :name: Facebook
+  :url: https://facebook.com/micahredding
+  :rel: me
+- :name: G+
+  :url: https://plus.google.com/+MicahRedding?rel=author
+  :rel: me
