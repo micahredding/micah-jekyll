@@ -2,7 +2,7 @@
 id: 81
 drupal_id: 4515
 title: I don't speak the language
-path: 2012/05/24/i-dont-speak-language
+permalink: /blog/2012/05/24/i-dont-speak-language
 created_at: 2012-05-25 00:02:00.000000000 Z
 updated_at: 2012-05-25 00:02:00.000000000 Z
 promoted: true

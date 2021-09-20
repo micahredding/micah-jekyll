@@ -1,7 +1,7 @@
 ---
 id: 546
 title: Moana and Reading Scripture
-path: moana-and-reading-scripture
+permalink: /blog/moana-and-reading-scripture
 created_at: 2017-06-22 00:24:17.134756000 Z
 updated_at: 2017-06-22 00:43:54.697437000 Z
 promoted: true

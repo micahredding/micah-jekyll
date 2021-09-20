@@ -2,7 +2,7 @@
 id: 448
 drupal_id: 4142
 title: LAST-MINUTE HYAMP CONCERT
-path: 2004/11/26/last-minute-hyamp-concert
+permalink: /blog/2004/11/26/last-minute-hyamp-concert
 created_at: 2004-11-27 00:49:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

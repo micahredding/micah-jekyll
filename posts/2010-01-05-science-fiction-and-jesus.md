@@ -2,7 +2,7 @@
 id: 198
 drupal_id: 4389
 title: Science Fiction and Jesus
-path: 2010/01/05/science-fiction-and-jesus
+permalink: /blog/2010/01/05/science-fiction-and-jesus
 created_at: 2010-01-05 22:38:00.000000000 Z
 updated_at: 2012-03-09 05:34:25.000000000 Z
 promoted: true

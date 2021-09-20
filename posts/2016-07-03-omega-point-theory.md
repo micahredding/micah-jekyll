@@ -1,7 +1,7 @@
 ---
 id: 494
 title: The Omega Point Theory
-path: omega-point-theory
+permalink: /blog/omega-point-theory
 created_at: 2016-07-03 21:04:24.627975000 Z
 updated_at: 2017-04-14 14:28:00.299178000 Z
 promoted: true

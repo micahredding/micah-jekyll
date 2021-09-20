@@ -2,7 +2,7 @@
 id: 199
 drupal_id: 4388
 title: Jesus Movement
-path: 2009/12/28/jesus-movement
+permalink: /blog/2009/12/28/jesus-movement
 created_at: 2009-12-29 04:30:00.000000000 Z
 updated_at: 2012-03-09 05:34:34.000000000 Z
 promoted: true

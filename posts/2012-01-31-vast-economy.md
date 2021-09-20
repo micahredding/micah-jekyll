@@ -2,7 +2,7 @@
 id: 116
 drupal_id: 4478
 title: The Vast Economy
-path: 2012/01/31/vast-economy
+permalink: /blog/2012/01/31/vast-economy
 created_at: 2012-01-31 17:09:06.000000000 Z
 updated_at: 2017-08-03 00:45:50.238104000 Z
 promoted: true

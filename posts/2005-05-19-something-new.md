@@ -2,7 +2,7 @@
 id: 400
 drupal_id: 4190
 title: Something new....
-path: 2005/05/19/something-new
+permalink: /blog/2005/05/19/something-new
 created_at: 2005-05-19 20:59:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

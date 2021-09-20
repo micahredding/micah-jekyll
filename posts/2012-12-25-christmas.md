@@ -2,7 +2,7 @@
 id: 54
 drupal_id: 4542
 title: Christmas
-path: 2012/12/25/christmas
+permalink: /blog/2012/12/25/christmas
 created_at: 2012-12-25 14:06:49.000000000 Z
 updated_at: 2017-04-14 14:27:58.574806000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 390
 drupal_id: 4200
 title: Steve Jobs Graduations & Mindy Smith
-path: 2005/06/20/steve-jobs-graduations-mindy-smith
+permalink: /blog/2005/06/20/steve-jobs-graduations-mindy-smith
 created_at: 2005-06-20 09:55:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

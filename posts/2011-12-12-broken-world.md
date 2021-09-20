@@ -2,7 +2,7 @@
 id: 130
 drupal_id: 4466
 title: a broken world
-path: 2011/12/12/broken-world
+permalink: /blog/2011/12/12/broken-world
 created_at: 2011-12-12 16:33:41.000000000 Z
 updated_at: 2011-12-29 05:22:37.000000000 Z
 state: published

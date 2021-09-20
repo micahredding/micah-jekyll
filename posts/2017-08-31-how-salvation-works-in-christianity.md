@@ -1,7 +1,7 @@
 ---
 id: 549
 title: How does Salvation Work?
-path: how-salvation-works-in-christianity
+permalink: /blog/how-salvation-works-in-christianity
 created_at: 2017-08-31 21:20:49.616688000 Z
 updated_at: 2017-09-01 02:37:11.915208000 Z
 promoted: true

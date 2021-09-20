@@ -2,7 +2,7 @@
 id: 303
 drupal_id: 4280
 title: Back from the Brink of Chaos
-path: 2007/03/15/back-from-the-brink-of-chaos
+permalink: /blog/2007/03/15/back-from-the-brink-of-chaos
 created_at: 2007-03-15 20:21:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

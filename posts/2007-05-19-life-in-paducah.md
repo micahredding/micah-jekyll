@@ -2,7 +2,7 @@
 id: 284
 drupal_id: 4300
 title: Life in Paducah
-path: 2007/05/19/life-in-paducah
+permalink: /blog/2007/05/19/life-in-paducah
 created_at: 2007-05-19 21:43:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

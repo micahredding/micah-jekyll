@@ -2,7 +2,7 @@
 id: 52
 drupal_id: 4544
 title: The Human Race & The Problem of Evil
-path: 2013/01/01/human-race-problem-evil
+permalink: /blog/2013/01/01/human-race-problem-evil
 created_at: 2013-01-01 23:40:25.000000000 Z
 updated_at: 2017-04-14 14:27:58.562853000 Z
 promoted: true

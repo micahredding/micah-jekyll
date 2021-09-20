@@ -2,7 +2,7 @@
 id: 247
 drupal_id: 4337
 title: The Rules of Pull-Throughs
-path: 2008/03/02/the-rules-of-pull-throughs
+permalink: /blog/2008/03/02/the-rules-of-pull-throughs
 created_at: 2008-03-02 07:00:00.000000000 Z
 updated_at: 2012-03-22 06:05:39.000000000 Z
 promoted: true

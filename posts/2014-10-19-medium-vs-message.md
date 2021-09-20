@@ -2,7 +2,7 @@
 id: 21
 drupal_id: 4576
 title: Medium vs Message
-path: 2014/10/19/medium-vs-message
+permalink: /blog/2014/10/19/medium-vs-message
 created_at: 2014-10-20 00:48:03.000000000 Z
 updated_at: 2017-04-14 14:27:58.381948000 Z
 promoted: true

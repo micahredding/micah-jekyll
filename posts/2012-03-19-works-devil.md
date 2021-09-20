@@ -2,7 +2,7 @@
 id: 97
 drupal_id: 4499
 title: The Works of The Devil
-path: 2012/03/19/works-devil
+permalink: /blog/2012/03/19/works-devil
 created_at: 2012-03-19 14:29:01.000000000 Z
 updated_at: 2017-04-14 14:27:58.745805000 Z
 promoted: true

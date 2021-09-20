@@ -2,7 +2,7 @@
 id: 13
 drupal_id: 4584
 title: Start Here
-path: start-here
+permalink: /blog/start-here
 created_at: 2015-04-08 04:36:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.337251000 Z
 state: published

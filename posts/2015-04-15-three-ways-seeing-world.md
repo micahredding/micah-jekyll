@@ -2,7 +2,7 @@
 id: 12
 drupal_id: 4585
 title: Three ways of seeing the world
-path: 2015/04/15/three-ways-seeing-world
+permalink: /blog/2015/04/15/three-ways-seeing-world
 created_at: 2015-04-15 05:16:37.000000000 Z
 updated_at: 2017-04-14 14:27:58.331656000 Z
 promoted: true

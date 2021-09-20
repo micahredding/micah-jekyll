@@ -2,7 +2,7 @@
 id: 22
 drupal_id: 4575
 title: Reading List
-path: 2014/09/28/reading-list
+permalink: /blog/2014/09/28/reading-list
 created_at: 2014-09-28 22:47:17.000000000 Z
 updated_at: 2014-09-28 22:49:49.000000000 Z
 promoted: true

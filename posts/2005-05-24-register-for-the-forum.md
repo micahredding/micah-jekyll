@@ -2,7 +2,7 @@
 id: 398
 drupal_id: 4192
 title: register for the forum...
-path: 2005/05/24/register-for-the-forum
+permalink: /blog/2005/05/24/register-for-the-forum
 created_at: 2005-05-24 08:46:00.000000000 Z
 updated_at: 2012-09-13 00:34:23.000000000 Z
 promoted: true

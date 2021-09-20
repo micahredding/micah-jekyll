@@ -2,7 +2,7 @@
 id: 275
 drupal_id: 4311
 title: 'Branching Out: Paducah, KY'
-path: 2007/06/15/branching-out-paducah-ky
+permalink: /blog/2007/06/15/branching-out-paducah-ky
 created_at: 2007-06-16 01:42:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

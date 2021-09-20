@@ -2,7 +2,7 @@
 id: 171
 drupal_id: 4411
 title: Libertarians and Airport Body-Scans
-path: 2010/12/10/libertarians-and-airport-body-scans
+permalink: /blog/2010/12/10/libertarians-and-airport-body-scans
 created_at: 2010-12-10 16:51:42.000000000 Z
 updated_at: 2012-01-04 14:54:49.000000000 Z
 promoted: true

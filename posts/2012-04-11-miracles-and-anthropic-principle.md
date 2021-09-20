@@ -2,7 +2,7 @@
 id: 91
 drupal_id: 4505
 title: Miracles and the Anthropic Principle
-path: 2012/04/11/miracles-and-anthropic-principle
+permalink: /blog/2012/04/11/miracles-and-anthropic-principle
 created_at: 2012-04-11 06:06:42.000000000 Z
 updated_at: 2017-04-14 14:27:58.708906000 Z
 promoted: true

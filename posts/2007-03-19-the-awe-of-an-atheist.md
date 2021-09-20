@@ -2,7 +2,7 @@
 id: 300
 drupal_id: 4301
 title: The Awe of an Atheist
-path: 2007/03/19/the-awe-of-an-atheist
+permalink: /blog/2007/03/19/the-awe-of-an-atheist
 created_at: 2007-03-20 03:45:00.000000000 Z
 updated_at: 2012-03-09 06:19:44.000000000 Z
 promoted: true

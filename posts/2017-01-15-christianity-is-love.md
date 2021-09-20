@@ -1,7 +1,7 @@
 ---
 id: 535
 title: Christianity is Love
-path: christianity-is-love
+permalink: /blog/christianity-is-love
 created_at: 2017-01-15 06:28:16.621562000 Z
 updated_at: 2017-01-15 06:46:16.814026000 Z
 promoted: true

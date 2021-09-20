@@ -2,7 +2,7 @@
 id: 189
 drupal_id: 4392
 title: Empty Pockets
-path: 2010/02/16/empty-pockets
+permalink: /blog/2010/02/16/empty-pockets
 created_at: 2010-02-16 22:55:34.000000000 Z
 updated_at: 2017-04-14 14:27:59.176894000 Z
 promoted: true

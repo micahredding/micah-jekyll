@@ -2,7 +2,7 @@
 id: 477
 drupal_id: 4111
 title: RoughDraft sold out - 01/23/2004
-path: 2004/01/24/roughdraft-sold-out-01232004
+permalink: /blog/2004/01/24/roughdraft-sold-out-01232004
 created_at: 2004-01-24 09:22:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

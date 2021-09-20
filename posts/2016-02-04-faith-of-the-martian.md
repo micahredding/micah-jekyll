@@ -1,7 +1,7 @@
 ---
 id: 481
 title: 'The Faith of the Martian '
-path: 2016/02/04/faith-of-the-martian
+permalink: /blog/2016/02/04/faith-of-the-martian
 created_at: 2016-02-05 02:41:14.563319000 Z
 updated_at: 2017-04-14 14:28:00.185386000 Z
 promoted: true

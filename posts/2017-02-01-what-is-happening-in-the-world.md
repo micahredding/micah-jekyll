@@ -1,7 +1,7 @@
 ---
 id: 537
 title: What is Happening in the World?
-path: what-is-happening-in-the-world
+permalink: /blog/what-is-happening-in-the-world
 created_at: 2017-02-01 14:40:01.212986000 Z
 updated_at: 2017-02-01 14:40:22.601322000 Z
 promoted: true

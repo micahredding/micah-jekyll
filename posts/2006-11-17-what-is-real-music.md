@@ -2,7 +2,7 @@
 id: 344
 drupal_id: 4246
 title: What is Real Music?
-path: 2006/11/17/what-is-real-music
+permalink: /blog/2006/11/17/what-is-real-music
 created_at: 2006-11-18 00:11:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

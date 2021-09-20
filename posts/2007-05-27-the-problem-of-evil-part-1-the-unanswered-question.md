@@ -2,7 +2,7 @@
 id: 282
 drupal_id: 4309
 title: The Problem of Evil, part 1 - The Unanswered Question
-path: 2007/05/27/the-problem-of-evil-part-1-the-unanswered-question
+permalink: /blog/2007/05/27/the-problem-of-evil-part-1-the-unanswered-question
 created_at: 2007-05-27 18:31:00.000000000 Z
 updated_at: 2012-03-22 05:56:12.000000000 Z
 promoted: true

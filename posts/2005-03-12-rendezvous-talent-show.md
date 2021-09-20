@@ -2,7 +2,7 @@
 id: 429
 drupal_id: 4161
 title: Rendezvous Talent Show
-path: 2005/03/12/rendezvous-talent-show
+permalink: /blog/2005/03/12/rendezvous-talent-show
 created_at: 2005-03-13 01:42:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

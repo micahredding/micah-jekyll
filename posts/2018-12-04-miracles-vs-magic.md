@@ -1,7 +1,7 @@
 ---
 id: 563
 title: Miracles vs Magic
-path: miracles-vs-magic
+permalink: /blog/miracles-vs-magic
 created_at: 2018-12-04 19:07:45.356664000 Z
 updated_at: 2018-12-04 21:26:45.104005000 Z
 promoted: true

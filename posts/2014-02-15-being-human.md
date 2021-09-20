@@ -2,7 +2,7 @@
 id: 34
 drupal_id: 4562
 title: Being Human
-path: 2014/02/15/being-human
+permalink: /blog/2014/02/15/being-human
 created_at: 2014-06-09 15:20:00.000000000 Z
 updated_at: 2017-04-14 14:27:58.448700000 Z
 promoted: true

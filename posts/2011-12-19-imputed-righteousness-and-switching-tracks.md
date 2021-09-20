@@ -2,7 +2,7 @@
 id: 128
 drupal_id: 4468
 title: imputed righteousness and switching tracks
-path: 2011/12/19/imputed-righteousness-and-switching-tracks
+permalink: /blog/2011/12/19/imputed-righteousness-and-switching-tracks
 created_at: 2011-12-19 15:55:27.000000000 Z
 updated_at: 2014-09-28 22:21:38.000000000 Z
 promoted: true

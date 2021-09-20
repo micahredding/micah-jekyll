@@ -2,7 +2,7 @@
 id: 95
 drupal_id: 4501
 title: Walter Wink
-path: 2012/03/22/walter-wink
+permalink: /blog/2012/03/22/walter-wink
 created_at: 2012-03-22 22:31:18.000000000 Z
 updated_at: 2014-09-28 22:19:51.000000000 Z
 state: published

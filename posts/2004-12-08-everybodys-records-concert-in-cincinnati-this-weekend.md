@@ -2,7 +2,7 @@
 id: 446
 drupal_id: 4144
 title: Everybody&#039;s Records Concert in Cincinnati This Weekend
-path: 2004/12/08/everybodys-records-concert-in-cincinnati-this-weekend
+permalink: /blog/2004/12/08/everybodys-records-concert-in-cincinnati-this-weekend
 created_at: 2004-12-08 09:24:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

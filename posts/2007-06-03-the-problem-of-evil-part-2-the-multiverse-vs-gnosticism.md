@@ -2,7 +2,7 @@
 id: 281
 drupal_id: 4320
 title: The Problem of Evil, part 2 - The Multiverse vs Gnosticism
-path: 2007/06/03/the-problem-of-evil-part-2-the-multiverse-vs-gnosticism
+permalink: /blog/2007/06/03/the-problem-of-evil-part-2-the-multiverse-vs-gnosticism
 created_at: 2007-06-04 03:56:00.000000000 Z
 updated_at: 2012-03-22 05:56:31.000000000 Z
 promoted: true

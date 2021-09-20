@@ -2,7 +2,7 @@
 id: 377
 drupal_id: 4213
 title: apartment returns
-path: 2005/08/26/apartment-returns
+permalink: /blog/2005/08/26/apartment-returns
 created_at: 2005-08-26 17:10:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

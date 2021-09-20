@@ -2,7 +2,7 @@
 id: 280
 drupal_id: 4321
 title: The Problem of Evil, part 3 - And God Saw The Multiverse, And It Was Good
-path: 2007/06/03/the-problem-of-evil-part-3-and-god-saw-the-multiverse-and-it-was-good
+permalink: /blog/2007/06/03/the-problem-of-evil-part-3-and-god-saw-the-multiverse-and-it-was-good
 created_at: 2007-06-04 04:37:00.000000000 Z
 updated_at: 2012-03-22 05:57:11.000000000 Z
 promoted: true

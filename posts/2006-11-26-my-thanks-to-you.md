@@ -2,7 +2,7 @@
 id: 337
 drupal_id: 4253
 title: My Thanks to You
-path: 2006/11/26/my-thanks-to-you
+permalink: /blog/2006/11/26/my-thanks-to-you
 created_at: 2006-11-27 01:37:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

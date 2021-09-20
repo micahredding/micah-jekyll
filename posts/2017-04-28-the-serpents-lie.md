@@ -1,7 +1,7 @@
 ---
 id: 544
 title: The Serpent’s Lie
-path: the-serpents-lie
+permalink: /blog/the-serpents-lie
 created_at: 2017-04-28 21:45:10.783547000 Z
 updated_at: 2017-04-28 22:09:33.123090000 Z
 promoted: true

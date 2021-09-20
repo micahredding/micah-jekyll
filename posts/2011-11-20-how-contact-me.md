@@ -2,7 +2,7 @@
 id: 141
 drupal_id: 4453
 title: How to contact me
-path: 2011/11/20/how-contact-me
+permalink: /blog/2011/11/20/how-contact-me
 created_at: 2011-11-20 14:42:14.000000000 Z
 updated_at: 2013-02-01 15:49:35.000000000 Z
 state: published

@@ -1,7 +1,7 @@
 ---
 id: 492
 title: Women in the Church
-path: women-in-the-church
+permalink: /blog/women-in-the-church
 created_at: 2016-06-20 15:22:12.122506000 Z
 updated_at: 2017-11-10 02:28:59.485846000 Z
 promoted: true

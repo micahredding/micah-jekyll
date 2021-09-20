@@ -2,7 +2,7 @@
 id: 134
 drupal_id: 4458
 title: The Most Powerful Being and the Simulation Argument
-path: 2011/12/01/most-powerful-being-and-simulation-argument
+permalink: /blog/2011/12/01/most-powerful-being-and-simulation-argument
 created_at: 2011-12-01 06:03:15.000000000 Z
 updated_at: 2012-11-27 14:29:52.000000000 Z
 state: published

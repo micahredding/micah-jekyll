@@ -2,7 +2,7 @@
 id: 200
 drupal_id: 4387
 title: Jesus is Lord
-path: 2009/12/13/jesus-is-lord
+permalink: /blog/2009/12/13/jesus-is-lord
 created_at: 2009-12-14 02:20:00.000000000 Z
 updated_at: 2015-05-11 19:07:50.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 296
 drupal_id: 4302
 title: A critique of Government
-path: 2007/03/31/a-critique-of-government
+permalink: /blog/2007/03/31/a-critique-of-government
 created_at: 2007-03-31 14:40:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

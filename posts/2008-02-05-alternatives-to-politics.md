@@ -2,7 +2,7 @@
 id: 252
 drupal_id: 4345
 title: Alternatives to Politics
-path: 2008/02/05/alternatives-to-politics
+permalink: /blog/2008/02/05/alternatives-to-politics
 created_at: 2008-02-06 05:32:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

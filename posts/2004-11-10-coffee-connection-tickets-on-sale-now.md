@@ -2,7 +2,7 @@
 id: 454
 drupal_id: 4136
 title: Coffee Connection Tickets on Sale Now!
-path: 2004/11/10/coffee-connection-tickets-on-sale-now
+permalink: /blog/2004/11/10/coffee-connection-tickets-on-sale-now
 created_at: 2004-11-10 09:33:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

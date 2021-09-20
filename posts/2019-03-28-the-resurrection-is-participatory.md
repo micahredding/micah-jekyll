@@ -1,7 +1,7 @@
 ---
 id: 565
 title: The Resurrection is Participatory
-path: the-resurrection-is-participatory
+permalink: /blog/the-resurrection-is-participatory
 created_at: 2019-03-28 21:02:44.258341000 Z
 updated_at: 2019-03-28 22:55:28.624001000 Z
 promoted: true

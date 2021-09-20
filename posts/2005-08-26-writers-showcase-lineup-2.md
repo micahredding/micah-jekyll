@@ -2,7 +2,7 @@
 id: 373
 drupal_id: 4217
 title: Writers Showcase Lineup
-path: 2005/08/26/writers-showcase-lineup-2
+permalink: /blog/2005/08/26/writers-showcase-lineup-2
 created_at: 2005-08-26 19:48:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

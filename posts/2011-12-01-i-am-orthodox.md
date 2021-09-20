@@ -2,7 +2,7 @@
 id: 133
 drupal_id: 4464
 title: i am orthodox
-path: 2011/12/01/i-am-orthodox
+permalink: /blog/2011/12/01/i-am-orthodox
 created_at: 2011-12-01 19:58:00.000000000 Z
 updated_at: 2014-09-28 22:21:38.000000000 Z
 promoted: true

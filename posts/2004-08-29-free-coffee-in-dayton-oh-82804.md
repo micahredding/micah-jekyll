@@ -2,7 +2,7 @@
 id: 464
 drupal_id: 4124
 title: Free Coffee in Dayton, OH - 8/28/04
-path: 2004/08/29/free-coffee-in-dayton-oh-82804
+permalink: /blog/2004/08/29/free-coffee-in-dayton-oh-82804
 created_at: 2004-08-29 07:29:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

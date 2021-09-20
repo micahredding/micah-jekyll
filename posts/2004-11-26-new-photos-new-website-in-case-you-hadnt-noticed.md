@@ -2,7 +2,7 @@
 id: 449
 drupal_id: 4141
 title: New Photos & New Website (in case you hadn&#039;t noticed)
-path: 2004/11/26/new-photos-new-website-in-case-you-hadnt-noticed
+permalink: /blog/2004/11/26/new-photos-new-website-in-case-you-hadnt-noticed
 created_at: 2004-11-26 09:59:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

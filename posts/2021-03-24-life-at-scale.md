@@ -1,6 +1,6 @@
 ---
 title: Life at Scale
-path: life-at-scale
+permalink: /blog/life-at-scale
 created_at: 2021-03-24 15:55:00 Z
 updated_at: 2021-03-24 15:55:00 Z
 promoted: true

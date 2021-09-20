@@ -2,7 +2,7 @@
 id: 156
 drupal_id: 4437
 title: Who I will be
-path: 2011/10/02/who-i-will-be
+permalink: /blog/2011/10/02/who-i-will-be
 created_at: 2011-10-02 06:20:19.000000000 Z
 updated_at: 2017-04-14 14:27:59.064438000 Z
 promoted: true

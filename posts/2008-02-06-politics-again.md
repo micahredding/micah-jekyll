@@ -2,7 +2,7 @@
 id: 251
 drupal_id: 4346
 title: Politics, again
-path: 2008/02/06/politics-again
+permalink: /blog/2008/02/06/politics-again
 created_at: 2008-02-06 22:20:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -1,6 +1,6 @@
 ---
 title: 'Paul, Paradox, Myth, and the Danger of Knowledge'
-path: paul-paradox-myth
+permalink: /blog/paul-paradox-myth
 created_at: 2020-03-22 14:38:00
 updated_at: 2020-03-23 02:18:00
 promoted: true

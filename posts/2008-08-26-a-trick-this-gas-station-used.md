@@ -2,7 +2,7 @@
 id: 233
 drupal_id: 4353
 title: A trick this gas station used
-path: 2008/08/26/a-trick-this-gas-station-used
+permalink: /blog/2008/08/26/a-trick-this-gas-station-used
 created_at: 2008-08-26 11:51:12.000000000 Z
 updated_at: 2017-04-14 14:27:59.341678000 Z
 promoted: true

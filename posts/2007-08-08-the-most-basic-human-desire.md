@@ -2,7 +2,7 @@
 id: 269
 drupal_id: 4328
 title: The Most Basic Human Desire
-path: 2007/08/08/the-most-basic-human-desire
+permalink: /blog/2007/08/08/the-most-basic-human-desire
 created_at: 2007-08-08 22:48:00.000000000 Z
 updated_at: 2012-03-09 06:18:30.000000000 Z
 promoted: true

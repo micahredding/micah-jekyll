@@ -2,7 +2,7 @@
 id: 58
 drupal_id: 4538
 title: Beyond Fulfilled Eschatology
-path: 2012/11/22/beyond-fulfilled-eschatology
+permalink: /blog/2012/11/22/beyond-fulfilled-eschatology
 created_at: 2012-11-23 04:51:35.000000000 Z
 updated_at: 2012-11-23 04:56:22.000000000 Z
 promoted: true

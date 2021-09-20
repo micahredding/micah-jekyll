@@ -2,7 +2,7 @@
 id: 62
 drupal_id: 4534
 title: Thoughts about the accident
-path: 2012/11/11/thoughts-about-accident
+permalink: /blog/2012/11/11/thoughts-about-accident
 created_at: 2012-11-11 23:36:16.000000000 Z
 updated_at: 2012-11-11 23:36:16.000000000 Z
 promoted: true

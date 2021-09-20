@@ -2,7 +2,7 @@
 id: 232
 drupal_id: 4362
 title: Beyond Polarization
-path: 2008/09/02/beyond-polarization
+permalink: /blog/2008/09/02/beyond-polarization
 created_at: 2008-09-02 16:48:00.000000000 Z
 updated_at: 2012-03-09 05:48:31.000000000 Z
 promoted: true

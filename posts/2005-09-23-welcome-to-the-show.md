@@ -2,7 +2,7 @@
 id: 371
 drupal_id: 4219
 title: Welcome to the Show
-path: 2005/09/23/welcome-to-the-show
+permalink: /blog/2005/09/23/welcome-to-the-show
 created_at: 2005-09-23 20:39:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

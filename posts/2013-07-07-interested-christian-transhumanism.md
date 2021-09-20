@@ -2,7 +2,7 @@
 id: 43
 drupal_id: 4553
 title: Interested in Christian Transhumanism?
-path: 2013/07/07/interested-christian-transhumanism
+permalink: /blog/2013/07/07/interested-christian-transhumanism
 created_at: 2013-07-07 20:16:42.000000000 Z
 updated_at: 2018-02-13 04:51:32.118421000 Z
 promoted: true

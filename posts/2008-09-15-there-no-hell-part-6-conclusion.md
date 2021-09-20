@@ -2,7 +2,7 @@
 id: 224
 drupal_id: 4420
 title: There Is No Hell (part 6), Conclusion
-path: 2008/09/15/there-no-hell-part-6-conclusion
+permalink: /blog/2008/09/15/there-no-hell-part-6-conclusion
 created_at: 2008-09-15 20:29:32.000000000 Z
 updated_at: 2019-04-29 16:43:22.942643000 Z
 state: published

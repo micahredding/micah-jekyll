@@ -2,7 +2,7 @@
 id: 129
 drupal_id: 4467
 title: will christianity die without church?
-path: 2011/12/16/will-christianity-die-without-church
+permalink: /blog/2011/12/16/will-christianity-die-without-church
 created_at: 2011-12-16 22:20:19.000000000 Z
 updated_at: 2014-09-28 22:31:13.000000000 Z
 state: published

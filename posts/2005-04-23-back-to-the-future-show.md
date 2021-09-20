@@ -2,7 +2,7 @@
 id: 417
 drupal_id: 4173
 title: BACK TO THE FUTURE SHOW
-path: 2005/04/23/back-to-the-future-show
+permalink: /blog/2005/04/23/back-to-the-future-show
 created_at: 2005-04-23 19:19:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

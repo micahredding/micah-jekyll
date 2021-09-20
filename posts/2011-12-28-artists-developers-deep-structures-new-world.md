@@ -2,7 +2,7 @@
 id: 125
 drupal_id: 4460
 title: Artists, Developers, and The Deep Structures of The New World
-path: 2011/12/28/artists-developers-deep-structures-new-world
+permalink: /blog/2011/12/28/artists-developers-deep-structures-new-world
 created_at: 2011-12-28 16:12:12.000000000 Z
 updated_at: 2017-04-14 14:27:58.933116000 Z
 promoted: true

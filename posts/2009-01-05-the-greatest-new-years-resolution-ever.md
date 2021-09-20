@@ -2,7 +2,7 @@
 id: 205
 drupal_id: 4373
 title: The Greatest New Year's Resolution Ever
-path: 2009/01/05/the-greatest-new-years-resolution-ever
+permalink: /blog/2009/01/05/the-greatest-new-years-resolution-ever
 created_at: 2009-01-06 00:57:49.000000000 Z
 updated_at: 2011-10-10 04:11:27.000000000 Z
 promoted: true

@@ -1,7 +1,7 @@
 ---
 id: 551
 title: The Resurrection is Technological
-path: the-resurrection-is-technological
+permalink: /blog/the-resurrection-is-technological
 created_at: 2017-09-28 17:06:03.626442000 Z
 updated_at: 2018-05-29 17:50:17.430007000 Z
 promoted: true

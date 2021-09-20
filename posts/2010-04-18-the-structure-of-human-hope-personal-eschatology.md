@@ -2,7 +2,7 @@
 id: 181
 drupal_id: 4399
 title: 'The Structure of Human Hope: personal eschatology'
-path: 2010/04/18/the-structure-of-human-hope-personal-eschatology
+permalink: /blog/2010/04/18/the-structure-of-human-hope-personal-eschatology
 created_at: 2010-04-18 17:49:07.000000000 Z
 updated_at: 2012-03-10 14:08:00.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 272
 drupal_id: 4326
 title: 'The 9th of Av: The Temple Falls, The Messiah Appears'
-path: 2007/07/23/the-9th-of-av-the-temple-falls-the-messiah-appears
+permalink: /blog/2007/07/23/the-9th-of-av-the-temple-falls-the-messiah-appears
 created_at: 2007-07-24 02:00:00.000000000 Z
 updated_at: 2018-07-22 22:26:18.678779000 Z
 promoted: true

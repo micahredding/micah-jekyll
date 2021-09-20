@@ -2,7 +2,7 @@
 id: 439
 drupal_id: 4151
 title: Tonight at Capitol Roasters
-path: 2005/01/22/tonight-at-capitol-roasters
+permalink: /blog/2005/01/22/tonight-at-capitol-roasters
 created_at: 2005-01-22 22:13:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

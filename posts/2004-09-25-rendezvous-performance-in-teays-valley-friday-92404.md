@@ -2,7 +2,7 @@
 id: 462
 drupal_id: 4126
 title: Rendezvous performance in Teays Valley - Friday 9/24/04
-path: 2004/09/25/rendezvous-performance-in-teays-valley-friday-92404
+permalink: /blog/2004/09/25/rendezvous-performance-in-teays-valley-friday-92404
 created_at: 2004-09-25 07:30:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

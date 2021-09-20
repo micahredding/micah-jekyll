@@ -2,7 +2,7 @@
 id: 438
 drupal_id: 4152
 title: Week in Review
-path: 2005/01/31/week-in-review
+permalink: /blog/2005/01/31/week-in-review
 created_at: 2005-01-31 06:11:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

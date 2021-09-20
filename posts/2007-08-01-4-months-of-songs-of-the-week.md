@@ -2,7 +2,7 @@
 id: 271
 drupal_id: 4313
 title: 4 MONTHS of Songs of The Week!
-path: 2007/08/01/4-months-of-songs-of-the-week
+permalink: /blog/2007/08/01/4-months-of-songs-of-the-week
 created_at: 2007-08-01 10:27:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

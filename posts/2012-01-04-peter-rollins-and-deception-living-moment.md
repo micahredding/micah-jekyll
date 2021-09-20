@@ -2,7 +2,7 @@
 id: 121
 drupal_id: 4473
 title: Peter Rollins and the Deception of Living in the Moment
-path: 2012/01/04/peter-rollins-and-deception-living-moment
+permalink: /blog/2012/01/04/peter-rollins-and-deception-living-moment
 created_at: 2012-01-04 14:49:24.000000000 Z
 updated_at: 2017-04-14 14:27:58.889360000 Z
 promoted: true

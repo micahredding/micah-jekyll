@@ -2,7 +2,7 @@
 id: 244
 drupal_id: 4347
 title: Going public with my ideas
-path: 2008/03/17/going-public-with-my-ideas-2
+permalink: /blog/2008/03/17/going-public-with-my-ideas-2
 created_at: 2008-03-17 13:25:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

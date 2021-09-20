@@ -2,7 +2,7 @@
 id: 90
 drupal_id: 4506
 title: Sin, Covet, Judge
-path: 2012/04/16/sin-covet-judge
+permalink: /blog/2012/04/16/sin-covet-judge
 created_at: 2012-04-16 15:01:03.000000000 Z
 updated_at: 2012-04-16 15:05:18.000000000 Z
 promoted: true

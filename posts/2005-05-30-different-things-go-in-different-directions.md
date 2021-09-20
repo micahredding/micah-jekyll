@@ -2,7 +2,7 @@
 id: 397
 drupal_id: 4193
 title: Different things go in different directions
-path: 2005/05/30/different-things-go-in-different-directions
+permalink: /blog/2005/05/30/different-things-go-in-different-directions
 created_at: 2005-05-30 16:35:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

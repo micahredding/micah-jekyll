@@ -2,7 +2,7 @@
 id: 191
 drupal_id: 4408
 title: Dealing with intense disagreement about beliefs
-path: 2010/02/08/dealing-with-intense-disagreement-about-beliefs
+permalink: /blog/2010/02/08/dealing-with-intense-disagreement-about-beliefs
 created_at: 2010-02-09 01:01:00.000000000 Z
 updated_at: 2012-03-09 05:32:26.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 103
 drupal_id: 4492
 title: Death and The Knowledge of Good and Evil
-path: 2012/03/06/death-and-knowledge-good-and-evil
+permalink: /blog/2012/03/06/death-and-knowledge-good-and-evil
 created_at: 2012-03-06 17:26:53.000000000 Z
 updated_at: 2014-09-28 22:28:56.000000000 Z
 state: published

@@ -2,7 +2,7 @@
 id: 1
 drupal_id: 4596
 title: The New God Argument and A New Apologetics
-path: new-god-argument-and-a-new-apologetics
+permalink: /blog/new-god-argument-and-a-new-apologetics
 created_at: 2016-01-21 05:33:22.000000000 Z
 updated_at: 2017-11-10 02:22:10.629239000 Z
 promoted: true
@@ -27,7 +27,7 @@ As a technical philosophical work, appreciating it requires overcoming some fair
 
 Despite these obstacles, I believe that this argument represents a new kind of apologetics, an apologetics that ultimately has much more to offer the world than the apologetics that we have known. Beyond the argument’s own merits, the very approach it takes is a substantial reorientation from prior approaches.
 
-## First, it is based on the future, not the past. 
+## First, it is based on the future, not the past.
 
 Classical apologetics asks us to reason backwards to first causes, or original *unmoved movers*. This means that God is always conceived primarily in terms of that which is behind us. History is then seen as the flight from God, the never-ending descent from original perfection — and human life and civilization easily become portrayed as a meaningless effort doomed to failure.
 

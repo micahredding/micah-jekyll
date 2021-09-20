@@ -2,7 +2,7 @@
 id: 407
 drupal_id: 4183
 title: Che Zuro at Rendezvous
-path: 2005/05/07/che-zuro-at-rendezvous
+permalink: /blog/2005/05/07/che-zuro-at-rendezvous
 created_at: 2005-05-07 18:51:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

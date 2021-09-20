@@ -2,7 +2,7 @@
 id: 149
 drupal_id: 4444
 title: 'The beginning of thought: Writing like a wiki?'
-path: 2011/10/18/beginning-thought-writing-wiki
+permalink: /blog/2011/10/18/beginning-thought-writing-wiki
 created_at: 2011-10-18 17:11:20.000000000 Z
 updated_at: 2012-01-04 14:57:46.000000000 Z
 promoted: true

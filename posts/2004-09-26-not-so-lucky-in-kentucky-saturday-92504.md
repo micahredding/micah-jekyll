@@ -2,7 +2,7 @@
 id: 461
 drupal_id: 4127
 title: Not-So-Lucky in Kentucky - Saturday 9/25/04
-path: 2004/09/26/not-so-lucky-in-kentucky-saturday-92504
+permalink: /blog/2004/09/26/not-so-lucky-in-kentucky-saturday-92504
 created_at: 2004-09-26 07:30:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

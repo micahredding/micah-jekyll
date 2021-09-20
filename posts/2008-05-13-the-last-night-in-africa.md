@@ -2,7 +2,7 @@
 id: 240
 drupal_id: 4351
 title: The Last Night in Africa
-path: 2008/05/13/the-last-night-in-africa
+permalink: /blog/2008/05/13/the-last-night-in-africa
 created_at: 2008-05-14 03:28:00.000000000 Z
 updated_at: 2012-03-09 06:26:13.000000000 Z
 promoted: true

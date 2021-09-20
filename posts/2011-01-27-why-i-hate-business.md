@@ -2,7 +2,7 @@
 id: 170
 drupal_id: 4412
 title: Why I hate business
-path: 2011/01/27/why-i-hate-business
+permalink: /blog/2011/01/27/why-i-hate-business
 created_at: 2011-01-28 04:10:17.000000000 Z
 updated_at: 2012-01-04 14:54:36.000000000 Z
 promoted: true

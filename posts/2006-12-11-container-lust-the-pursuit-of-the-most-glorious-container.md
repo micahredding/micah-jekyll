@@ -2,7 +2,7 @@
 id: 330
 drupal_id: 4260
 title: Container Lust - the pursuit of the most glorious container
-path: 2006/12/11/container-lust-the-pursuit-of-the-most-glorious-container
+permalink: /blog/2006/12/11/container-lust-the-pursuit-of-the-most-glorious-container
 created_at: 2006-12-11 12:36:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

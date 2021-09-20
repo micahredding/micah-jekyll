@@ -2,7 +2,7 @@
 id: 291
 drupal_id: 4306
 title: Jesus Camp
-path: 2007/04/12/jesus-camp
+permalink: /blog/2007/04/12/jesus-camp
 created_at: 2007-04-12 05:30:00.000000000 Z
 updated_at: 2011-08-22 00:00:00.000000000 Z
 promoted: true

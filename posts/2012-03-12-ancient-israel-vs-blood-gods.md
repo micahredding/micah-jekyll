@@ -2,7 +2,7 @@
 id: 99
 drupal_id: 4496
 title: Ancient Israel vs The Blood Gods
-path: 2012/03/12/ancient-israel-vs-blood-gods
+permalink: /blog/2012/03/12/ancient-israel-vs-blood-gods
 created_at: 2012-03-12 14:06:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.756749000 Z
 promoted: true

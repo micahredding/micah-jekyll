@@ -2,7 +2,7 @@
 id: 27
 drupal_id: 4570
 title: Christianity is a set of memes
-path: 2014/09/16/christianity-set-memes
+permalink: /blog/2014/09/16/christianity-set-memes
 created_at: 2014-09-17 04:12:30.000000000 Z
 updated_at: 2017-04-14 14:27:58.410021000 Z
 promoted: true

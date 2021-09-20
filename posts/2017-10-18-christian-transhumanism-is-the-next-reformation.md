@@ -1,7 +1,7 @@
 ---
 id: 552
 title: Christian Transhumanism is the Next Reformation
-path: christian-transhumanism-is-the-next-reformation
+permalink: /blog/christian-transhumanism-is-the-next-reformation
 created_at: 2017-10-18 01:56:20.838575000 Z
 updated_at: 2017-10-18 01:56:20.838575000 Z
 promoted: true

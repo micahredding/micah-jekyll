@@ -2,7 +2,7 @@
 id: 248
 drupal_id: 4336
 title: The moment is perfect
-path: 2008/02/23/the-moment-is-perfect
+permalink: /blog/2008/02/23/the-moment-is-perfect
 created_at: 2008-02-23 14:47:00.000000000 Z
 updated_at: 2012-03-09 06:17:43.000000000 Z
 promoted: true

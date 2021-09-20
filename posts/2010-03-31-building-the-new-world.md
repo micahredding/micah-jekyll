@@ -2,7 +2,7 @@
 id: 187
 drupal_id: 4393
 title: Building The New World
-path: 2010/03/31/building-the-new-world
+permalink: /blog/2010/03/31/building-the-new-world
 created_at: 2010-03-31 21:47:08.000000000 Z
 updated_at: 2012-03-09 05:33:15.000000000 Z
 promoted: true

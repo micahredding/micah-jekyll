@@ -2,7 +2,7 @@
 id: 236
 drupal_id: 4361
 title: Parallels
-path: 2008/07/29/parallels
+permalink: /blog/2008/07/29/parallels
 created_at: 2008-07-29 17:10:00.000000000 Z
 updated_at: 2012-03-09 06:17:29.000000000 Z
 promoted: true

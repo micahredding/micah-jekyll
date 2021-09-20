@@ -2,7 +2,7 @@
 id: 289
 drupal_id: 4296
 title: 'Secret Fact #2: Liner Notes'
-path: 2007/04/20/secret-fact-2-liner-notes
+permalink: /blog/2007/04/20/secret-fact-2-liner-notes
 created_at: 2007-04-20 08:00:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

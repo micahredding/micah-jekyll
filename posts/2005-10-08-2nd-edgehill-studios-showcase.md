@@ -2,7 +2,7 @@
 id: 369
 drupal_id: 4221
 title: 2nd Edgehill Studios Showcase
-path: 2005/10/08/2nd-edgehill-studios-showcase
+permalink: /blog/2005/10/08/2nd-edgehill-studios-showcase
 created_at: 2005-10-08 21:22:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

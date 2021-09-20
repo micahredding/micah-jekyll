@@ -2,7 +2,7 @@
 id: 16
 drupal_id: 4581
 title: What is Technology?
-path: 2015/03/13/what-technology
+permalink: /blog/2015/03/13/what-technology
 created_at: 2015-03-13 05:16:02.000000000 Z
 updated_at: 2017-11-10 02:24:44.423902000 Z
 promoted: true

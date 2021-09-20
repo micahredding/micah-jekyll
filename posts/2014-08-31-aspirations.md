@@ -2,7 +2,7 @@
 id: 30
 drupal_id: 4567
 title: Aspirations
-path: 2014/08/31/aspirations
+permalink: /blog/2014/08/31/aspirations
 created_at: 2014-09-01 04:06:17.000000000 Z
 updated_at: 2017-04-14 14:27:58.426483000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 113
 drupal_id: 4481
 title: The Skulls, Bones and The Power of Law
-path: 2012/02/09/skulls-bones-and-power-law
+permalink: /blog/2012/02/09/skulls-bones-and-power-law
 created_at: 2012-02-09 16:31:13.000000000 Z
 updated_at: 2012-02-09 16:45:26.000000000 Z
 promoted: true

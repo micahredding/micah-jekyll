@@ -2,7 +2,7 @@
 id: 36
 drupal_id: 4560
 title: Embodiment
-path: 2013/11/24/embodiment
+permalink: /blog/2013/11/24/embodiment
 created_at: 2013-11-25 02:36:22.000000000 Z
 updated_at: 2017-04-14 14:27:58.458404000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 206
 drupal_id: 4372
 title: Favorite Rule Ever
-path: 2009/01/05/favorite-rule-ever
+permalink: /blog/2009/01/05/favorite-rule-ever
 created_at: 2009-01-05 13:04:53.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

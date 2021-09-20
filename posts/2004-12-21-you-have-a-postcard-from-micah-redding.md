@@ -2,7 +2,7 @@
 id: 444
 drupal_id: 4146
 title: You have a postcard from Micah Redding
-path: 2004/12/21/you-have-a-postcard-from-micah-redding
+permalink: /blog/2004/12/21/you-have-a-postcard-from-micah-redding
 created_at: 2004-12-21 14:37:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

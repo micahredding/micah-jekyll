@@ -1,7 +1,7 @@
 ---
 id: 557
 title: Black Panther is the Transhumanist Future We Need
-path: black-panther-transhumanist-future
+permalink: /blog/black-panther-transhumanist-future
 created_at: 2018-02-19 14:12:09.668706000 Z
 updated_at: 2018-02-25 14:11:35.481613000 Z
 promoted: true

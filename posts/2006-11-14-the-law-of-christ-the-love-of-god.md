@@ -2,7 +2,7 @@
 id: 348
 drupal_id: 4242
 title: The Law of Christ, The Love of God
-path: 2006/11/14/the-law-of-christ-the-love-of-god
+permalink: /blog/2006/11/14/the-law-of-christ-the-love-of-god
 created_at: 2006-11-15 05:16:00.000000000 Z
 updated_at: 2012-03-09 06:22:18.000000000 Z
 promoted: true

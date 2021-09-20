@@ -1,6 +1,6 @@
 ---
 title: Teleology & Simulation
-path: teleology-and-simulation
+permalink: /blog/teleology-and-simulation
 created_at: 2020-02-20 10:24:00
 updated_at: 2020-02-20 10:24:00
 main_image: https://res.cloudinary.com/micahredding/image/upload/v1599056071/hands-watch-ocean-sea-waves_oxugui.jpg
@@ -79,7 +79,7 @@ Note that at no point are we suggesting the impossibility of the natural occurre
 
 More on this below.
 
-### The Simulation Argument 
+### The Simulation Argument
 
 Having fleshed out the intuition that the Argument from Design is actually trading in, and having attempted to offer an expanded version of this argument, I want to now turn to something much more modern: [The Simulation Argument](https://www.simulation-argument.com). 
 

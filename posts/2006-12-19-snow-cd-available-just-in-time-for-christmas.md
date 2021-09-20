@@ -2,7 +2,7 @@
 id: 326
 drupal_id: 4264
 title: SNOW CD Available Just In Time For Christmas
-path: 2006/12/19/snow-cd-available-just-in-time-for-christmas
+permalink: /blog/2006/12/19/snow-cd-available-just-in-time-for-christmas
 created_at: 2006-12-20 02:37:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 11
 drupal_id: 4586
 title: The Church of Christ
-path: 2015/04/20/church-christ
+permalink: /blog/2015/04/20/church-christ
 created_at: 2015-04-20 18:36:43.000000000 Z
 updated_at: 2017-04-14 14:27:58.325811000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 387
 drupal_id: 4203
 title: NEW PHOTOS!!! Trip to Nashville
-path: 2005/06/29/new-photos-trip-to-nashville
+permalink: /blog/2005/06/29/new-photos-trip-to-nashville
 created_at: 2005-06-29 09:12:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

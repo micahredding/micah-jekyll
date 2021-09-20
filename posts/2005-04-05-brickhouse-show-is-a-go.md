@@ -2,7 +2,7 @@
 id: 423
 drupal_id: 4167
 title: BRICKHOUSE SHOW IS A GO
-path: 2005/04/05/brickhouse-show-is-a-go
+permalink: /blog/2005/04/05/brickhouse-show-is-a-go
 created_at: 2005-04-06 00:50:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

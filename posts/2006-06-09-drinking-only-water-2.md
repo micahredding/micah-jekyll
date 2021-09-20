@@ -2,7 +2,7 @@
 id: 355
 drupal_id: 4235
 title: Drinking only water
-path: 2006/06/09/drinking-only-water-2
+permalink: /blog/2006/06/09/drinking-only-water-2
 created_at: 2006-06-10 00:14:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

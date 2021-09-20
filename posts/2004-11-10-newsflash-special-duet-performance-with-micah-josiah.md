@@ -2,7 +2,7 @@
 id: 453
 drupal_id: 4137
 title: NEWSFLASH - Special duet performance with Micah & Josiah
-path: 2004/11/10/newsflash-special-duet-performance-with-micah-josiah
+permalink: /blog/2004/11/10/newsflash-special-duet-performance-with-micah-josiah
 created_at: 2004-11-11 03:09:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

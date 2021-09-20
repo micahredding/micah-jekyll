@@ -2,7 +2,7 @@
 id: 213
 drupal_id: 4382
 title: 'Zehnder: the band, the men, the mission'
-path: 2008/11/10/zehnder-the-band-the-men-the-mission
+permalink: /blog/2008/11/10/zehnder-the-band-the-men-the-mission
 created_at: 2008-11-10 19:54:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

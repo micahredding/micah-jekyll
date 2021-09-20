@@ -2,7 +2,7 @@
 id: 144
 drupal_id: 4449
 title: What I want in my backpack
-path: 2011/11/14/what-i-want-my-backpack
+permalink: /blog/2011/11/14/what-i-want-my-backpack
 created_at: 2011-11-14 16:28:28.000000000 Z
 updated_at: 2011-11-14 16:29:52.000000000 Z
 promoted: true

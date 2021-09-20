@@ -2,7 +2,7 @@
 id: 137
 drupal_id: 4456
 title: A decade of being vegetarian - and why I chose to stop
-path: 2011/11/28/decade-being-vegetarian-and-why-i-chose-stop
+permalink: /blog/2011/11/28/decade-being-vegetarian-and-why-i-chose-stop
 created_at: 2011-11-28 13:45:17.000000000 Z
 updated_at: 2016-02-08 04:53:39.086108000 Z
 promoted: true

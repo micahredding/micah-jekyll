@@ -2,7 +2,7 @@
 id: 318
 drupal_id: 4270
 title: Are Polar Bears an Endangered Species?
-path: 2006/12/27/are-polar-bears-an-endangered-species
+permalink: /blog/2006/12/27/are-polar-bears-an-endangered-species
 created_at: 2006-12-27 11:23:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

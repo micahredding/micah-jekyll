@@ -2,7 +2,7 @@
 id: 384
 drupal_id: 4206
 title: 'Notice: Website Changes, New Features'
-path: 2005/07/29/notice-website-changes-new-features
+permalink: /blog/2005/07/29/notice-website-changes-new-features
 created_at: 2005-07-29 19:45:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

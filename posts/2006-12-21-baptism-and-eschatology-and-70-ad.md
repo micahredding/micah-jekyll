@@ -2,7 +2,7 @@
 id: 323
 drupal_id: 4269
 title: Baptism and Eschatology and 70 AD
-path: 2006/12/21/baptism-and-eschatology-and-70-ad
+permalink: /blog/2006/12/21/baptism-and-eschatology-and-70-ad
 created_at: 2006-12-22 02:26:00.000000000 Z
 updated_at: 2012-03-22 05:46:28.000000000 Z
 promoted: true

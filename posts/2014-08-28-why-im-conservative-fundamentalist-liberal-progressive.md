@@ -2,7 +2,7 @@
 id: 31
 drupal_id: 4565
 title: Why I’m a Conservative Fundamentalist Liberal Progressive
-path: 2014/08/28/why-im-conservative-fundamentalist-liberal-progressive
+permalink: /blog/2014/08/28/why-im-conservative-fundamentalist-liberal-progressive
 created_at: 2014-08-28 14:23:48.000000000 Z
 updated_at: 2017-07-07 15:54:53.384338000 Z
 promoted: true

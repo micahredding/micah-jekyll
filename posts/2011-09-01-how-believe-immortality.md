@@ -2,7 +2,7 @@
 id: 164
 drupal_id: 4498
 title: How to believe in Immortality
-path: 2011/09/01/how-believe-immortality
+permalink: /blog/2011/09/01/how-believe-immortality
 created_at: 2011-09-01 19:34:16.000000000 Z
 updated_at: 2012-03-16 20:51:47.000000000 Z
 promoted: true

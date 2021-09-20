@@ -2,7 +2,7 @@
 id: 287
 drupal_id: 4307
 title: Scarcity vs. Abundance
-path: 2007/04/29/scarcity-vs-abundance
+permalink: /blog/2007/04/29/scarcity-vs-abundance
 created_at: 2007-04-29 05:41:00.000000000 Z
 updated_at: 2012-03-09 06:19:09.000000000 Z
 promoted: true

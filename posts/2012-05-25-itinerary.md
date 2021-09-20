@@ -2,7 +2,7 @@
 id: 80
 drupal_id: 4516
 title: Itinerary
-path: 2012/05/25/itinerary
+permalink: /blog/2012/05/25/itinerary
 created_at: 2012-05-25 11:47:12.000000000 Z
 updated_at: 2012-05-25 11:47:12.000000000 Z
 promoted: true

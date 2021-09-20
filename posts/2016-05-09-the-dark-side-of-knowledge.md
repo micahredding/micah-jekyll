@@ -1,7 +1,7 @@
 ---
 id: 489
 title: The Dark Side of Knowledge
-path: the-dark-side-of-knowledge
+permalink: /blog/the-dark-side-of-knowledge
 created_at: 2016-05-09 05:08:31.544694000 Z
 updated_at: 2017-04-14 14:28:00.257357000 Z
 promoted: true

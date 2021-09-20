@@ -2,7 +2,7 @@
 id: 298
 drupal_id: 4292
 title: Metaphors, or "Back from Pittsburgh"
-path: 2007/03/27/metaphors-or-back-from-pittsburgh
+permalink: /blog/2007/03/27/metaphors-or-back-from-pittsburgh
 created_at: 2007-03-27 20:00:00.000000000 Z
 updated_at: 2012-03-22 05:52:22.000000000 Z
 promoted: true

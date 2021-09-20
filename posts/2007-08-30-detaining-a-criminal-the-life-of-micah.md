@@ -2,7 +2,7 @@
 id: 267
 drupal_id: 4315
 title: Detaining a Criminal - the Life of Micah
-path: 2007/08/30/detaining-a-criminal-the-life-of-micah
+permalink: /blog/2007/08/30/detaining-a-criminal-the-life-of-micah
 created_at: 2007-08-30 22:58:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

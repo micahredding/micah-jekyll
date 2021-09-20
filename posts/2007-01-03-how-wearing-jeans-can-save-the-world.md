@@ -2,7 +2,7 @@
 id: 309
 drupal_id: 4277
 title: How Wearing Jeans Can Save the World
-path: 2007/01/03/how-wearing-jeans-can-save-the-world
+permalink: /blog/2007/01/03/how-wearing-jeans-can-save-the-world
 created_at: 2007-01-03 21:13:00.000000000 Z
 updated_at: 2012-03-22 05:51:07.000000000 Z
 promoted: true

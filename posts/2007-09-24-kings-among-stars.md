@@ -2,7 +2,7 @@
 id: 265
 drupal_id: 4317
 title: Kings among Stars
-path: 2007/09/24/kings-among-stars
+permalink: /blog/2007/09/24/kings-among-stars
 created_at: 2007-09-25 00:07:00.000000000 Z
 updated_at: 2012-03-22 06:03:07.000000000 Z
 promoted: true

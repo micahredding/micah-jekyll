@@ -2,7 +2,7 @@
 id: 14
 drupal_id: 4583
 title: Transhumanism and the Christian story
-path: 2015/03/23/transhumanism-and-christian-story
+permalink: /blog/2015/03/23/transhumanism-and-christian-story
 created_at: 2015-03-23 13:39:50.000000000 Z
 updated_at: 2015-03-23 13:42:53.000000000 Z
 state: published

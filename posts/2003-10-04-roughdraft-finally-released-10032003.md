@@ -2,7 +2,7 @@
 id: 478
 drupal_id: 4110
 title: RoughDraft finally released! - 10/03/2003
-path: 2003/10/04/roughdraft-finally-released-10032003
+permalink: /blog/2003/10/04/roughdraft-finally-released-10032003
 created_at: 2003-10-04 07:05:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

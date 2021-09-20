@@ -2,7 +2,7 @@
 id: 370
 drupal_id: 4220
 title: Murphy&#039;s Loft Showcase
-path: 2005/09/28/murphys-loft-showcase
+permalink: /blog/2005/09/28/murphys-loft-showcase
 created_at: 2005-09-28 21:06:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 295
 drupal_id: 4294
 title: '"Loud Sounds Bother My Unborn Child", Smoking Mom says'
-path: 2007/04/04/loud-sounds-bother-my-unborn-child-smoking-mom-says
+permalink: /blog/2007/04/04/loud-sounds-bother-my-unborn-child-smoking-mom-says
 created_at: 2007-04-04 20:53:00.000000000 Z
 updated_at: 2011-08-21 04:06:05.000000000 Z
 promoted: true

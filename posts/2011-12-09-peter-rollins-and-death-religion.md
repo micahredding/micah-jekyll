@@ -2,7 +2,7 @@
 id: 131
 drupal_id: 4459
 title: Peter Rollins and the Death of Religion
-path: 2011/12/09/peter-rollins-and-death-religion
+permalink: /blog/2011/12/09/peter-rollins-and-death-religion
 created_at: 2011-12-09 20:01:30.000000000 Z
 updated_at: 2017-04-14 14:27:58.972116000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 336
 drupal_id: 4254
 title: Do We Need Hierarchies?
-path: 2006/11/27/do-we-need-hierarchies
+permalink: /blog/2006/11/27/do-we-need-hierarchies
 created_at: 2006-11-28 03:37:00.000000000 Z
 updated_at: 2012-03-09 06:22:05.000000000 Z
 promoted: true

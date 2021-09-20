@@ -2,7 +2,7 @@
 id: 334
 drupal_id: 4256
 title: Redding Brothers - The Fantastic Anti-Gravity Device!
-path: 2006/11/28/redding-brothers-the-fantastic-anti-gravity-device
+permalink: /blog/2006/11/28/redding-brothers-the-fantastic-anti-gravity-device
 created_at: 2006-11-28 20:28:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

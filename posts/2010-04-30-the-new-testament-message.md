@@ -2,7 +2,7 @@
 id: 178
 drupal_id: 4402
 title: The New Testament Message
-path: 2010/04/30/the-new-testament-message
+permalink: /blog/2010/04/30/the-new-testament-message
 created_at: 2010-05-01 04:46:24.000000000 Z
 updated_at: 2012-01-04 14:55:58.000000000 Z
 promoted: true

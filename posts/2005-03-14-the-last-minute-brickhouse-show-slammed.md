@@ -2,7 +2,7 @@
 id: 428
 drupal_id: 4162
 title: The Last Minute Brickhouse Show SLAMMED
-path: 2005/03/14/the-last-minute-brickhouse-show-slammed
+permalink: /blog/2005/03/14/the-last-minute-brickhouse-show-slammed
 created_at: 2005-03-14 07:49:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
