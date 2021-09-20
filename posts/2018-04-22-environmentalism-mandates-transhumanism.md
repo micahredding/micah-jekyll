@@ -6,7 +6,7 @@ created_at: 2018-04-22 18:50:55.833947000 Z
 updated_at: 2018-04-22 19:24:51.035430000 Z
 promoted: true
 state: published
-main_image: v1524423718/jtm8gtycth6umnxgvxck.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1524423718/jtm8gtycth6umnxgvxck.jpg
 categories:
 - Transhuman
 ---

@@ -7,7 +7,7 @@ updated_at: 2019-11-11 03:03:38.271883000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1608740634/blonde-woman-in-meadow-looking-at-sunset_c89gmf.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1608740634/blonde-woman-in-meadow-looking-at-sunset_c89gmf.jpg
 categories:
 - Theology
 ---

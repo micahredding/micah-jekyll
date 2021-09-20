@@ -7,7 +7,7 @@ updated_at: 2017-11-10 02:28:59.485846000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1466436525/zllc5bsrc1r9qtwb1lvr.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1466436525/zllc5bsrc1r9qtwb1lvr.jpg
 categories:
 - Theology
 images:

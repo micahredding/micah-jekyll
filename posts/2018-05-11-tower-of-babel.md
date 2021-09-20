@@ -7,7 +7,7 @@ updated_at: 2018-05-11 14:53:12.833406000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1526049036/iqnbl1ls8zem4rcgpole.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1526049036/iqnbl1ls8zem4rcgpole.jpg
 categories:
 - Theology
 ---

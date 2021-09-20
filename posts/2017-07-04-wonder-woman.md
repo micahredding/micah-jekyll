@@ -6,7 +6,7 @@ updated_at: 2017-07-04 00:00:00.000000000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1520545719/wonder_woman.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1520545719/wonder_woman.jpg
 ---
 For CS Lewis, Adam and Eve were a vision of humanity as it could be, in its full power and beauty. They were man and woman unchained, gods and goddesses walking the Earth, intense and fierce, full of fiery and dangerous grace.
 

@@ -6,7 +6,7 @@ created_at: 2017-06-22 00:24:17.134756000 Z
 updated_at: 2017-06-22 00:43:54.697437000 Z
 promoted: true
 state: published
-main_image: v1498091152/usw80m1unk7gzabmoxgo.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1498091152/usw80m1unk7gzabmoxgo.jpg
 categories:
 - Theology
 ---

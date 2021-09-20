@@ -7,7 +7,7 @@ updated_at: 2017-01-20 14:28:34.100239000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1484892784/b20vlgkiqdbezabzhtol.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1484892784/b20vlgkiqdbezabzhtol.jpg
 categories:
 - Transhuman
 - Human

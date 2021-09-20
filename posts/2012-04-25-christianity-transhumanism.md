@@ -8,7 +8,7 @@ updated_at: 2017-07-01 06:26:27.263867000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1453060256/wifi_jesus_b.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060256/wifi_jesus_b.jpg
 categories:
 - Transhuman
 images:

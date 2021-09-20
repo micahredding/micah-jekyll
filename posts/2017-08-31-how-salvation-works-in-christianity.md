@@ -7,7 +7,7 @@ updated_at: 2017-09-01 02:37:11.915208000 Z
 promoted: true
 featured: true
 state: published
-main_image: v1504214607/bdwmxnvftmuxelaxaior.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1504214607/bdwmxnvftmuxelaxaior.jpg
 categories:
 - Theology
 ---

@@ -6,7 +6,7 @@ created_at: 2016-01-26 02:16:47.504656000 Z
 updated_at: 2017-04-14 14:28:00.171256000 Z
 promoted: true
 state: published
-main_image: v1453776283/j9geaetckryzxcm8dota.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453776283/j9geaetckryzxcm8dota.jpg
 categories:
 - Human
 images:
