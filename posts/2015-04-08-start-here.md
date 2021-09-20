@@ -6,7 +6,7 @@ permalink: /blog/start-here
 created_at: 2015-04-08 04:36:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.337251000 Z
 state: published
-main_image: image/upload/v1453076326/IMG_4993.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453076326/IMG_4993.jpg
 images:
 - title: 
   remote_url: http://res.cloudinary.com/micahredding/image/upload/v1453076326/IMG_4993.jpg

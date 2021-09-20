@@ -7,7 +7,7 @@ created_at: 2013-08-03 19:11:28.000000000 Z
 updated_at: 2017-04-14 14:27:58.482247000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453059739/Leaving_Yerevan.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059739/Leaving_Yerevan.jpg
 categories:
 - Theology
 images:

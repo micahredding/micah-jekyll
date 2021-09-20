@@ -7,7 +7,7 @@ created_at: 2015-11-03 02:17:31.000000000 Z
 updated_at: 2017-04-14 14:27:58.295676000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453078128/pablo_1.png
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453078128/pablo_1.png
 categories:
 - Transhuman
 - Christian Transhumanism

@@ -7,7 +7,7 @@ created_at: 2011-12-26 03:25:22.000000000 Z
 updated_at: 2017-04-14 14:27:58.946575000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453060299/Church-People1.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060299/Church-People1.jpg
 categories:
 - Theology
 tags:

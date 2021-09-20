@@ -8,7 +8,7 @@ updated_at: 2017-04-14 14:27:58.548787000 Z
 promoted: true
 featured: true
 state: published
-main_image: image/upload/v1453076333/391_1stars_above_haleakala__haleakala_national_park__maui__hi_0.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453076333/391_1stars_above_haleakala__haleakala_national_park__maui__hi_0.jpg
 categories:
 - Human
 images:

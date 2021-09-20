@@ -6,7 +6,7 @@ created_at: 2016-02-05 02:41:14.563319000 Z
 updated_at: 2017-04-14 14:28:00.185386000 Z
 promoted: true
 state: published
-main_image: image/upload/v1454640151/eftety8nx4ha3qtaxau8.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1454640151/eftety8nx4ha3qtaxau8.jpg
 categories:
 - Theology
 images:

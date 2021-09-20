@@ -6,7 +6,7 @@ created_at: 2016-04-04 18:49:40.918345000 Z
 updated_at: 2017-04-14 14:28:00.248763000 Z
 promoted: true
 state: published
-main_image: image/upload/v1459796373/qaisssxrirriwgrptusd.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1459796373/qaisssxrirriwgrptusd.jpg
 categories:
 - Transhuman
 - Human

@@ -7,7 +7,7 @@ created_at: 2012-02-10 16:08:15.000000000 Z
 updated_at: 2017-04-14 14:27:58.837021000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453060285/apparat-fmt.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060285/apparat-fmt.jpg
 categories:
 - Theology
 series:

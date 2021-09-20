@@ -6,7 +6,7 @@ permalink: /blog/2014/06/19/incoherent-essays
 created_at: 2014-06-20 03:28:08.000000000 Z
 updated_at: 2017-04-14 14:27:58.444008000 Z
 state: published
-main_image: image/upload/v1453059728/incoherent_essays.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059728/incoherent_essays.jpg
 categories:
 - Extras & Experiments
 images:

@@ -7,7 +7,7 @@ created_at: 2011-12-28 16:12:12.000000000 Z
 updated_at: 2017-04-14 14:27:58.933116000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453060297/1024px-Bingham_Canyon_April_2005.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060297/1024px-Bingham_Canyon_April_2005.jpg
 categories:
 - Human
 images:

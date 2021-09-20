@@ -7,7 +7,7 @@ created_at: 2013-01-01 23:40:25.000000000 Z
 updated_at: 2017-04-14 14:27:58.562853000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453619922/believe_in_humanity.png
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453619922/believe_in_humanity.png
 categories:
 - Theology
 tags:

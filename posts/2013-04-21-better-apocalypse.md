@@ -7,7 +7,7 @@ created_at: 2013-04-22 04:57:10.000000000 Z
 updated_at: 2017-04-14 14:27:58.527219000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453178734/martin_luther_king.png
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453178734/martin_luther_king.png
 categories:
 - Theology
 - Transhuman

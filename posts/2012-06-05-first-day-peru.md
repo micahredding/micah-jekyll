@@ -7,7 +7,7 @@ created_at: 2012-06-05 10:56:58.000000000 Z
 updated_at: 2017-04-14 14:27:58.656116000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453060244/photo_0.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060244/photo_0.jpg
 categories:
 - Human
 series:

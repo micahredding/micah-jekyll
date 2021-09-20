@@ -7,7 +7,7 @@ created_at: 2012-02-23 18:12:15.000000000 Z
 updated_at: 2017-04-14 14:27:58.822117000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453060282/nature-trees-sky-fire-river-dual-screen-skeleton-lakes-good-vs.-evil-wallpaper.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060282/nature-trees-sky-fire-river-dual-screen-skeleton-lakes-good-vs.-evil-wallpaper.jpg
 categories:
 - Theology
 images:

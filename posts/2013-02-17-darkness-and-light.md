@@ -7,7 +7,7 @@ created_at: 2013-02-17 07:07:13.000000000 Z
 updated_at: 2017-04-14 14:27:58.540934000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453059750/Dark_storm_clouds.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059750/Dark_storm_clouds.jpg
 categories:
 - Human
 images:

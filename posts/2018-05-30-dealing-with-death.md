@@ -7,7 +7,7 @@ updated_at: 2018-06-02 05:27:36.545834000 Z
 promoted: true
 featured: true
 state: published
-main_image: image/upload/v1527917254/vzxd3zsvjyickyw77quh.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1527917254/vzxd3zsvjyickyw77quh.jpg
 categories:
 - Human
 series:

@@ -7,7 +7,7 @@ created_at: 2012-01-04 14:49:24.000000000 Z
 updated_at: 2017-04-14 14:27:58.889360000 Z
 promoted: true
 state: published
-main_image: image/upload/v1453060292/05-vangoc-4115-380.jpg
+main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060292/05-vangoc-4115-380.jpg
 categories:
 - Theology
 series:
