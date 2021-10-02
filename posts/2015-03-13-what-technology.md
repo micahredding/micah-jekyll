@@ -7,7 +7,7 @@ created_at: 2015-03-13 05:16:02.000000000 Z
 updated_at: 2017-11-10 02:24:44.423902000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059666/image_2155e-Modern-Europeans.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059666/image_2155e-Modern-Europeans.jpg
 categories:
 - Transhuman
 - Christian Transhumanism

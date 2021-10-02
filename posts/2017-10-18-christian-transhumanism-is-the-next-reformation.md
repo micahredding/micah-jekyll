@@ -7,7 +7,7 @@ updated_at: 2017-10-18 01:56:20.838575000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1508291718/bpfucr1rtk9ucb0juqa3.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1508291718/bpfucr1rtk9ucb0juqa3.jpg
 categories:
 - Transhuman
 - Theology

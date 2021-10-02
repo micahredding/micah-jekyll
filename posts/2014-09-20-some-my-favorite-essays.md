@@ -6,7 +6,7 @@ permalink: /blog/2014/09/20/some-my-favorite-essays
 created_at: 2014-09-20 18:48:56.000000000 Z
 updated_at: 2017-04-14 14:27:58.395760000 Z
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453076328/RobertDowneyJuniorIronManHairstyle.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453076328/RobertDowneyJuniorIronManHairstyle.jpg
 images:
 - title: 
   remote_url: http://res.cloudinary.com/micahredding/image/upload/v1453076328/RobertDowneyJuniorIronManHairstyle.jpg

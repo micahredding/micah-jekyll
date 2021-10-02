@@ -7,7 +7,7 @@ created_at: 2008-08-26 11:51:12.000000000 Z
 updated_at: 2017-04-14 14:27:59.341678000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453072567/pict4410-300x225.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453072567/pict4410-300x225.jpg
 tags:
 - travel
 - touring

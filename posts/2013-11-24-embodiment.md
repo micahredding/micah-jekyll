@@ -7,7 +7,7 @@ created_at: 2013-11-25 02:36:22.000000000 Z
 updated_at: 2017-04-14 14:27:58.458404000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453078154/Ren%C3%A9_Descartes_i_samtal_med_Sveriges_drottning__Kristina.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453078154/Ren%C3%A9_Descartes_i_samtal_med_Sveriges_drottning__Kristina.jpg
 categories:
 - Theology
 - Transhuman

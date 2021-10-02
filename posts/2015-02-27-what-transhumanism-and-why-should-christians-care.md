@@ -7,7 +7,7 @@ created_at: 2015-02-27 06:36:56.000000000 Z
 updated_at: 2017-11-10 02:23:51.812103000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453178674/30_Doradus__Tarantula_Nebula.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453178674/30_Doradus__Tarantula_Nebula.jpg
 categories:
 - Transhuman
 - Christian Transhumanism

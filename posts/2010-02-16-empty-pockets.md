@@ -7,7 +7,7 @@ created_at: 2010-02-16 22:55:34.000000000 Z
 updated_at: 2017-04-14 14:27:59.176894000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453072535/2010-02-16-keyring.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453072535/2010-02-16-keyring.jpg
 categories:
 - Human
 tags:

@@ -7,7 +7,7 @@ updated_at: 2017-04-14 14:28:00.291923000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1466615398/epuu4ly7gjxzvwrdnqmc.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1466615398/epuu4ly7gjxzvwrdnqmc.jpg
 categories:
 - Theology
 - Human

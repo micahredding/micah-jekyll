@@ -7,7 +7,7 @@ created_at: 2012-03-12 14:06:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.756749000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060272/combat-between-the-monster-tiamat.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453060272/combat-between-the-monster-tiamat.jpg
 categories:
 - Theology
 series:

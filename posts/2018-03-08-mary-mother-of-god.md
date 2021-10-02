@@ -7,7 +7,7 @@ updated_at: 2018-03-08 18:00:00.000000000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1520550780/mary_takeoff.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1520550780/mary_takeoff.jpg
 ---
 The more I am exposed to the Catholic aesthetic, the more I understand that for the ancient church, Mary was sort of like Wonder Woman, working against the power of Kings and Empires to smuggle the divine into the world.
 

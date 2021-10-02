@@ -7,7 +7,7 @@ updated_at: 2018-02-16 17:42:26.019369000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1518129389/ocsmpgfuiyogwpwowghu.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1518129389/ocsmpgfuiyogwpwowghu.jpg
 categories:
 - Theology
 series:

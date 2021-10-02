@@ -7,7 +7,7 @@ updated_at: 2018-12-04 21:26:45.104005000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1543952473/z1mjapwacpgbs5baza4v.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1543952473/z1mjapwacpgbs5baza4v.jpg
 categories:
 - Theology
 - Christian Transhumanism

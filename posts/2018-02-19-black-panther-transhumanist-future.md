@@ -7,7 +7,7 @@ updated_at: 2018-02-25 14:11:35.481613000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1519049526/s4l0dvsdnezdzhhf3ggu.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1519049526/s4l0dvsdnezdzhhf3ggu.jpg
 categories:
 - Transhuman
 ---

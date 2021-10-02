@@ -7,7 +7,7 @@ updated_at: 2017-02-01 14:40:22.601322000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1485960017/lbexfdrlbg8u1chlqqh7.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1485960017/lbexfdrlbg8u1chlqqh7.jpg
 categories:
 - Human
 ---

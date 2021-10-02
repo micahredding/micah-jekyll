@@ -6,7 +6,7 @@ updated_at: 2020-03-23 02:18:00
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1627494433/serpent-adam-eve-classic.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1627494433/serpent-adam-eve-classic.jpg
 categories:
 - Theology
 ---

@@ -6,7 +6,7 @@ created_at: 2016-02-08 15:00:16.960754000 Z
 updated_at: 2017-04-14 14:28:00.193089000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1454945400/xqmak4wpgt181b2lh7kt.png
+image: https://res.cloudinary.com/micahredding/image/upload/v1454945400/xqmak4wpgt181b2lh7kt.png
 categories:
 - Theology
 series:

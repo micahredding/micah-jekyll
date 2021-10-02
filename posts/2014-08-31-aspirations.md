@@ -7,7 +7,7 @@ created_at: 2014-09-01 04:06:17.000000000 Z
 updated_at: 2017-04-14 14:27:58.426483000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059721/640px-Ladder_to_sky_Escalera_al_cielo_Stairway_to_heaven.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059721/640px-Ladder_to_sky_Escalera_al_cielo_Stairway_to_heaven.jpg
 categories:
 - Human
 images:

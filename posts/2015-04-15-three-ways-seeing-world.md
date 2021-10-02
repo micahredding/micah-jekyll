@@ -7,7 +7,7 @@ created_at: 2015-04-15 05:16:37.000000000 Z
 updated_at: 2017-04-14 14:27:58.331656000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059645/three_roads_0.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059645/three_roads_0.jpg
 categories:
 - Theology
 images:

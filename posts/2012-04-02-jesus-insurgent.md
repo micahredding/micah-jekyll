@@ -8,7 +8,7 @@ updated_at: 2017-04-14 14:27:58.722331000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453076331/francesco-hayez-the-destruction-of-the-temple-of-jerusalem-1867.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453076331/francesco-hayez-the-destruction-of-the-temple-of-jerusalem-1867.jpg
 categories:
 - Theology
 series:

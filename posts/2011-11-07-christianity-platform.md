@@ -7,7 +7,7 @@ created_at: 2011-11-08 02:40:18.000000000 Z
 updated_at: 2017-04-14 14:27:59.031563000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060316/Troll_A_Platform.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453060316/Troll_A_Platform.jpg
 categories:
 - Theology
 images:

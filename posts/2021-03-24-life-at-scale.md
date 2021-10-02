@@ -6,7 +6,7 @@ updated_at: 2021-03-24 15:55:00 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1616619665/3599135900_2887f93c71_o_kjxaj2.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1616619665/3599135900_2887f93c71_o_kjxaj2.jpg
 ---
 
 Life as we know it is full of incredible diversity and change. From single-cell to multi-cellular organisms, from asexual reproduction to sexual recombination, from bacteria to plants to fungi to vertebrates, life evolves, transforms, and grows before our eyes. It produces species like the blue whale, the coral reef, and the human being. More, it produces symbiotic networks, dynamic biological relationships between everything from cooperative genes to intertwined ecosystems.

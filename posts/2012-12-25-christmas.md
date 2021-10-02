@@ -7,7 +7,7 @@ created_at: 2012-12-25 14:06:49.000000000 Z
 updated_at: 2017-04-14 14:27:58.574806000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059755/Govert_Flinck_-_Angels_Announcing_the_Birth_of_Christ_to_the_Shepherds_-_WGA07928.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059755/Govert_Flinck_-_Angels_Announcing_the_Birth_of_Christ_to_the_Shepherds_-_WGA07928.jpg
 categories:
 - Theology
 images:

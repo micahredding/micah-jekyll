@@ -7,7 +7,7 @@ created_at: 2013-10-29 22:52:57.000000000 Z
 updated_at: 2017-04-14 14:27:58.463167000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059733/1024px-Fargo_Sundogs_2_18_09.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059733/1024px-Fargo_Sundogs_2_18_09.jpg
 categories:
 - Transhuman
 - Christian Transhumanism

@@ -7,7 +7,7 @@ created_at: 2012-04-11 06:06:42.000000000 Z
 updated_at: 2017-04-14 14:27:58.708906000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060260/The-Fine-Tuning-in-the-Universe.png
+image: https://res.cloudinary.com/micahredding/image/upload/v1453060260/The-Fine-Tuning-in-the-Universe.png
 categories:
 - Transhuman
 images:

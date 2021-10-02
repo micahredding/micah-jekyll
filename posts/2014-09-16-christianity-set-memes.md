@@ -7,7 +7,7 @@ created_at: 2014-09-17 04:12:30.000000000 Z
 updated_at: 2017-04-14 14:27:58.410021000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453077402/V_A_-_Raphael__The_Miraculous_Draught_of_Fishes__1515.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453077402/V_A_-_Raphael__The_Miraculous_Draught_of_Fishes__1515.jpg
 categories:
 - Theology
 images:

@@ -7,7 +7,7 @@ updated_at: 2017-11-01 01:07:17.978148000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1509498428/iknescrxrfpy2x01yaor.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1509498428/iknescrxrfpy2x01yaor.jpg
 categories:
 - Theology
 ---

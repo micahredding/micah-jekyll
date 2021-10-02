@@ -8,7 +8,7 @@ updated_at: 2017-11-10 02:54:23.619869000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059743/tony-hand-updated-robert-downey-jr-drops-major-marvel-hint-iron-man-4-or-age-of-ultron-trailer.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059743/tony-hand-updated-robert-downey-jr-drops-major-marvel-hint-iron-man-4-or-age-of-ultron-trailer.jpg
 categories:
 - Human
 images:

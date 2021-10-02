@@ -7,7 +7,7 @@ updated_at: 2016-12-31 16:37:46.225892000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1483202231/zehc280ppqgqudlaaree.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1483202231/zehc280ppqgqudlaaree.jpg
 categories:
 - Human
 ---

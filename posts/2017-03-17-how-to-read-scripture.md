@@ -6,7 +6,7 @@ created_at: 2017-03-17 15:00:31.939779000 Z
 updated_at: 2017-03-17 15:16:20.423392000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1489763317/cvcosmuwfawbdq1amxbh.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1489763317/cvcosmuwfawbdq1amxbh.jpg
 ---
 Reading scripture is meant to be hard. I don’t mean that it has to be tedious or boring or anger-inducing or something like that. I mean that the *meaning* is not just floating on the surface, waiting to be scooped off like so much pond scum. No, the meaning is deep and immersive, and you can’t get to it unless you fall in.
 

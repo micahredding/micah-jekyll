@@ -7,7 +7,7 @@ created_at: 2014-09-15 03:46:44.000000000 Z
 updated_at: 2017-04-14 14:27:58.415926000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059717/Child_Standing_Near_Tree.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059717/Child_Standing_Near_Tree.jpg
 categories:
 - Human
 images:

@@ -6,7 +6,7 @@ created_at: 2017-02-07 19:01:23.139567000 Z
 updated_at: 2017-02-21 22:07:50.318027000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1486494073/ahd5wg59q5b6mucszruq.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1486494073/ahd5wg59q5b6mucszruq.jpg
 categories:
 - Human
 ---

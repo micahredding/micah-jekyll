@@ -7,7 +7,7 @@ created_at: 2012-05-02 17:19:51.000000000 Z
 updated_at: 2017-04-14 14:27:58.677676000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060251/AKG151883.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453060251/AKG151883.jpg
 categories:
 - Theology
 images:

@@ -7,7 +7,7 @@ created_at: 2014-10-20 00:48:03.000000000 Z
 updated_at: 2017-04-14 14:27:58.381948000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059703/Joshua_tree_keys_view_pano_more_vertical.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059703/Joshua_tree_keys_view_pano_more_vertical.jpg
 categories:
 - Human
 images:

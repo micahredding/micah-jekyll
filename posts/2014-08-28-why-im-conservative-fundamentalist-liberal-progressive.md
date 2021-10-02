@@ -7,7 +7,7 @@ created_at: 2014-08-28 14:23:48.000000000 Z
 updated_at: 2017-07-07 15:54:53.384338000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453059722/robot_0.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453059722/robot_0.jpg
 categories:
 - Human
 images:

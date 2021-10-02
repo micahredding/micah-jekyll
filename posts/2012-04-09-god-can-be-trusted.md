@@ -7,7 +7,7 @@ created_at: 2012-04-09 14:38:21.000000000 Z
 updated_at: 2017-04-14 14:27:58.714298000 Z
 promoted: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453060263/Two_Umbrellas_and_a_bicycle.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453060263/Two_Umbrellas_and_a_bicycle.jpg
 categories:
 - Theology
 images:

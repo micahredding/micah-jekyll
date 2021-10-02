@@ -8,7 +8,7 @@ updated_at: 2017-04-14 14:27:58.453383000 Z
 promoted: true
 featured: true
 state: published
-main_image: https://res.cloudinary.com/micahredding/image/upload/v1453076334/lego.jpg
+image: https://res.cloudinary.com/micahredding/image/upload/v1453076334/lego.jpg
 categories:
 - Theology
 tags:
