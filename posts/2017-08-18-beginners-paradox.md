@@ -1,7 +1,7 @@
 ---
 id: 548
 title: 'The Beginner''s Paradox and the Beatitudes: We Must Fall in Order to Rise'
-permalink: /blog/beginners-paradox
+permalink: /blog/beginners-paradox/
 created_at: 2017-08-18 18:47:35.472499000 Z
 updated_at: 2017-08-22 22:52:12.566801000 Z
 promoted: true

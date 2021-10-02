@@ -2,7 +2,7 @@
 id: 382
 drupal_id: 4208
 title: Micah on the Radio
-permalink: /blog/2005/08/04/micah-on-the-radio
+permalink: /blog/2005/08/04/micah-on-the-radio/
 created_at: 2005-08-04 22:20:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 450
 drupal_id: 4140
 title: Leprechaun Buttons Arrive!
-permalink: /blog/2004/11/24/leprechaun-buttons-arrive
+permalink: /blog/2004/11/24/leprechaun-buttons-arrive/
 created_at: 2004-11-24 16:46:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

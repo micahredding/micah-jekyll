@@ -2,7 +2,7 @@
 id: 352
 drupal_id: 4238
 title: 'The Second Album, Part 1: The Studio'
-permalink: /blog/2006/10/01/the-second-album-part-1-the-studio
+permalink: /blog/2006/10/01/the-second-album-part-1-the-studio/
 created_at: 2006-10-02 04:13:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

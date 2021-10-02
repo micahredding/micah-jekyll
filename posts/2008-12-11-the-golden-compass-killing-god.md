@@ -2,7 +2,7 @@
 id: 208
 drupal_id: 4371
 title: 'The Golden Compass: Killing God?'
-permalink: /blog/2008/12/11/the-golden-compass-killing-god
+permalink: /blog/2008/12/11/the-golden-compass-killing-god/
 created_at: 2008-12-11 23:26:03.000000000 Z
 updated_at: 2012-03-09 06:15:39.000000000 Z
 promoted: true

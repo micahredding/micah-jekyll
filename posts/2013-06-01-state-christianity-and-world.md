@@ -2,7 +2,7 @@
 id: 45
 drupal_id: 4551
 title: The State of Christianity and the World
-permalink: /blog/2013/06/01/state-christianity-and-world
+permalink: /blog/2013/06/01/state-christianity-and-world/
 created_at: 2013-06-01 15:07:59.000000000 Z
 updated_at: 2017-04-14 14:27:58.507165000 Z
 promoted: true

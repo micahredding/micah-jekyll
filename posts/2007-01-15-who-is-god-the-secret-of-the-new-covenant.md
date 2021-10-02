@@ -2,7 +2,7 @@
 id: 304
 drupal_id: 4288
 title: Who is God? The Secret of the New Covenant
-permalink: /blog/2007/01/15/who-is-god-the-secret-of-the-new-covenant
+permalink: /blog/2007/01/15/who-is-god-the-secret-of-the-new-covenant/
 created_at: 2007-01-15 17:31:00.000000000 Z
 updated_at: 2011-11-26 15:23:21.000000000 Z
 promoted: true

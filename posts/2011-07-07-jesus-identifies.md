@@ -2,7 +2,7 @@
 id: 168
 drupal_id: 4410
 title: Jesus identifies
-permalink: /blog/2011/07/07/jesus-identifies
+permalink: /blog/2011/07/07/jesus-identifies/
 created_at: 2011-07-07 15:50:05.000000000 Z
 updated_at: 2012-01-04 14:54:11.000000000 Z
 promoted: true

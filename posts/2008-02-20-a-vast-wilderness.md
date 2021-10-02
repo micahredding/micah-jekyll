@@ -2,7 +2,7 @@
 id: 249
 drupal_id: 4335
 title: A Vast Wilderness
-permalink: /blog/2008/02/20/a-vast-wilderness
+permalink: /blog/2008/02/20/a-vast-wilderness/
 created_at: 2008-02-20 20:58:00.000000000 Z
 updated_at: 2012-03-09 06:18:06.000000000 Z
 promoted: true

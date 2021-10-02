@@ -2,7 +2,7 @@
 id: 10
 drupal_id: 4587
 title: Talks and Presentations
-permalink: /blog/2015/04/27/talks-and-presentations
+permalink: /blog/2015/04/27/talks-and-presentations/
 created_at: 2015-04-27 14:23:50.000000000 Z
 updated_at: 2015-04-28 02:06:45.000000000 Z
 state: published

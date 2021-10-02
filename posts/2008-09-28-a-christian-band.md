@@ -2,7 +2,7 @@
 id: 220
 drupal_id: 4356
 title: A Christian Band?
-permalink: /blog/2008/09/28/a-christian-band
+permalink: /blog/2008/09/28/a-christian-band/
 created_at: 2008-09-29 03:53:13.000000000 Z
 updated_at: 2012-09-13 00:52:21.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 315
 drupal_id: 4283
 title: Were the Founding Fathers atheists?
-permalink: /blog/2006/12/31/were-the-founding-fathers-atheists
+permalink: /blog/2006/12/31/were-the-founding-fathers-atheists/
 created_at: 2006-12-31 22:02:00.000000000 Z
 updated_at: 2012-03-09 04:50:04.000000000 Z
 promoted: true

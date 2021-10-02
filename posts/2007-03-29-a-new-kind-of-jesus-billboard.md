@@ -2,7 +2,7 @@
 id: 297
 drupal_id: 4293
 title: A New Kind of Jesus Billboard
-permalink: /blog/2007/03/29/a-new-kind-of-jesus-billboard
+permalink: /blog/2007/03/29/a-new-kind-of-jesus-billboard/
 created_at: 2007-03-30 03:28:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

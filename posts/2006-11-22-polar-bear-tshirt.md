@@ -2,7 +2,7 @@
 id: 340
 drupal_id: 4250
 title: Polar Bear Tshirt
-permalink: /blog/2006/11/22/polar-bear-tshirt
+permalink: /blog/2006/11/22/polar-bear-tshirt/
 created_at: 2006-11-23 05:40:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

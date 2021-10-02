@@ -2,7 +2,7 @@
 id: 306
 drupal_id: 4278
 title: New Apple iPod &quot;iPhone&quot; Phone
-permalink: /blog/2007/01/09/new-apple-ipod-iphone-phone
+permalink: /blog/2007/01/09/new-apple-ipod-iphone-phone/
 created_at: 2007-01-10 01:15:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

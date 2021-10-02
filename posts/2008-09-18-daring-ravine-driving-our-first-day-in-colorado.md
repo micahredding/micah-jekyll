@@ -2,7 +2,7 @@
 id: 222
 drupal_id: 4355
 title: Daring Ravine Driving - our first day in Colorado
-permalink: /blog/2008/09/18/daring-ravine-driving-our-first-day-in-colorado
+permalink: /blog/2008/09/18/daring-ravine-driving-our-first-day-in-colorado/
 created_at: 2008-09-18 15:12:54.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

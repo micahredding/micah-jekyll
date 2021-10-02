@@ -1,7 +1,7 @@
 ---
 id: 562
 title: Dealing with Death
-permalink: /blog/dealing-with-death
+permalink: /blog/dealing-with-death/
 created_at: 2018-05-30 13:37:46.575676000 Z
 updated_at: 2018-06-02 05:27:36.545834000 Z
 promoted: true

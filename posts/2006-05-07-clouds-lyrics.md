@@ -2,7 +2,7 @@
 id: 362
 drupal_id: 4228
 title: Clouds Lyrics
-permalink: /blog/2006/05/07/clouds-lyrics
+permalink: /blog/2006/05/07/clouds-lyrics/
 created_at: 2006-05-07 19:37:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

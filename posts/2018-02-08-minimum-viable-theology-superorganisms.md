@@ -1,7 +1,7 @@
 ---
 id: 554
 title: 'Minimum Viable Theology: Superorganisms'
-permalink: /blog/minimum-viable-theology-superorganisms
+permalink: /blog/minimum-viable-theology-superorganisms/
 created_at: 2018-02-08 21:16:00.735262000 Z
 updated_at: 2018-02-16 17:42:26.019369000 Z
 promoted: true

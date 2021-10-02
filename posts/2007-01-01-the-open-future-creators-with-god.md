@@ -2,7 +2,7 @@
 id: 314
 drupal_id: 4284
 title: The Open Future - Creators with God
-permalink: /blog/2007/01/01/the-open-future-creators-with-god
+permalink: /blog/2007/01/01/the-open-future-creators-with-god/
 created_at: 2007-01-01 09:25:00.000000000 Z
 updated_at: 2011-12-24 23:03:05.000000000 Z
 promoted: true

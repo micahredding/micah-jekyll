@@ -2,7 +2,7 @@
 id: 420
 drupal_id: 4170
 title: Visit to Pittsburgh
-permalink: /blog/2005/04/17/visit-to-pittsburgh
+permalink: /blog/2005/04/17/visit-to-pittsburgh/
 created_at: 2005-04-17 16:58:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

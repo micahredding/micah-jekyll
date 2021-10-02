@@ -2,7 +2,7 @@
 id: 430
 drupal_id: 4160
 title: Rock The Coffeeshop @ Borders
-permalink: /blog/2005/03/09/rock-the-coffeeshop-borders
+permalink: /blog/2005/03/09/rock-the-coffeeshop-borders/
 created_at: 2005-03-09 07:00:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

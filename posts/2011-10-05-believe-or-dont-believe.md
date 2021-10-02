@@ -2,7 +2,7 @@
 id: 153
 drupal_id: 4440
 title: Believe or Don't Believe
-permalink: /blog/2011/10/05/believe-or-dont-believe
+permalink: /blog/2011/10/05/believe-or-dont-believe/
 created_at: 2011-10-05 05:21:58.000000000 Z
 updated_at: 2011-10-10 03:02:32.000000000 Z
 promoted: true

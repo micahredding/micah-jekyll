@@ -2,7 +2,7 @@
 id: 147
 drupal_id: 4446
 title: How 1 Corinthians 11 is actually a statement about female equality
-permalink: /blog/2011/10/30/how-1-corinthians-11-actually-statement-about-female-equality
+permalink: /blog/2011/10/30/how-1-corinthians-11-actually-statement-about-female-equality/
 created_at: 2011-10-31 02:28:23.000000000 Z
 updated_at: 2018-04-18 14:25:59.724179000 Z
 promoted: true

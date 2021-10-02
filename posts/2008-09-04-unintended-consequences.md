@@ -2,7 +2,7 @@
 id: 231
 drupal_id: 4363
 title: Unintended Consequences
-permalink: /blog/2008/09/04/unintended-consequences
+permalink: /blog/2008/09/04/unintended-consequences/
 created_at: 2008-09-04 16:34:00.000000000 Z
 updated_at: 2012-03-09 05:47:27.000000000 Z
 promoted: true

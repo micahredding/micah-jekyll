@@ -1,7 +1,7 @@
 ---
 id: 536
 title: How to Become Immortal
-permalink: /blog/how-to-become-immortal
+permalink: /blog/how-to-become-immortal/
 created_at: 2017-01-20 06:13:35.086034000 Z
 updated_at: 2017-01-20 14:28:34.100239000 Z
 promoted: true

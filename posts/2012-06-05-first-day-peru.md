@@ -2,7 +2,7 @@
 id: 77
 drupal_id: 4519
 title: First day in Peru
-permalink: /blog/2012/06/05/first-day-peru
+permalink: /blog/2012/06/05/first-day-peru/
 created_at: 2012-06-05 10:56:58.000000000 Z
 updated_at: 2017-04-14 14:27:58.656116000 Z
 promoted: true

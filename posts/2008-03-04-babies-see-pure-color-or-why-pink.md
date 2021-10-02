@@ -2,7 +2,7 @@
 id: 246
 drupal_id: 4338
 title: Babies see pure color, or, Why Pink?
-permalink: /blog/2008/03/04/babies-see-pure-color-or-why-pink
+permalink: /blog/2008/03/04/babies-see-pure-color-or-why-pink/
 created_at: 2008-03-04 21:38:00.000000000 Z
 updated_at: 2012-03-10 14:18:25.000000000 Z
 promoted: true

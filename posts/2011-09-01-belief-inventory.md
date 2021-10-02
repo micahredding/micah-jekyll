@@ -2,7 +2,7 @@
 id: 163
 drupal_id: 4430
 title: Belief Inventory
-permalink: /blog/2011/09/01/belief-inventory
+permalink: /blog/2011/09/01/belief-inventory/
 created_at: 2011-09-02 04:29:34.000000000 Z
 updated_at: 2011-10-10 03:04:27.000000000 Z
 state: published

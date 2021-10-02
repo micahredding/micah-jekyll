@@ -2,7 +2,7 @@
 id: 427
 drupal_id: 4163
 title: Weekend in Nashville
-permalink: /blog/2005/03/22/weekend-in-nashville
+permalink: /blog/2005/03/22/weekend-in-nashville/
 created_at: 2005-03-23 03:44:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -1,6 +1,6 @@
 ---
 title: Teleology & Simulation
-permalink: /blog/teleology-and-simulation
+permalink: /blog/teleology-and-simulation/
 created_at: 2020-02-20 10:24:00
 updated_at: 2020-02-20 10:24:00
 image: https://res.cloudinary.com/micahredding/image/upload/v1599056071/hands-watch-ocean-sea-waves_oxugui.jpg

@@ -2,7 +2,7 @@
 id: 88
 drupal_id: 4508
 title: 'The Singularity: Why the Future is Closer Than You Think'
-permalink: /blog/2012/04/17/singularity-why-future-closer-you-think
+permalink: /blog/2012/04/17/singularity-why-future-closer-you-think/
 created_at: 2012-04-17 15:35:34.000000000 Z
 updated_at: 2012-11-27 14:30:07.000000000 Z
 promoted: true

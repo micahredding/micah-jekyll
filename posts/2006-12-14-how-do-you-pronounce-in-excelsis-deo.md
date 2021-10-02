@@ -2,7 +2,7 @@
 id: 328
 drupal_id: 4262
 title: How do YOU pronounce In Excelsis Deo?
-permalink: /blog/2006/12/14/how-do-you-pronounce-in-excelsis-deo
+permalink: /blog/2006/12/14/how-do-you-pronounce-in-excelsis-deo/
 created_at: 2006-12-15 02:36:00.000000000 Z
 updated_at: 2017-12-10 01:53:46.957545000 Z
 promoted: true

@@ -1,7 +1,7 @@
 ---
 id: 493
 title: The Creative Process of God
-permalink: /blog/the-creative-process-of-god
+permalink: /blog/the-creative-process-of-god/
 created_at: 2016-06-22 17:13:18.563945000 Z
 updated_at: 2017-04-14 14:28:00.291923000 Z
 promoted: true

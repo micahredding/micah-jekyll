@@ -1,7 +1,7 @@
 ---
 id: 490
 title: The Infinite Resurrection
-permalink: /blog/the-infinite-resurrection
+permalink: /blog/the-infinite-resurrection/
 created_at: 2016-06-14 04:38:12.921875000 Z
 updated_at: 2017-04-14 14:28:00.268701000 Z
 promoted: true

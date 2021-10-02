@@ -2,7 +2,7 @@
 id: 302
 drupal_id: 4289
 title: The Taming of the World - Why America is not a Modern Rome
-permalink: /blog/2007/03/16/the-taming-of-the-world-why-america-is-not-a-modern-rome
+permalink: /blog/2007/03/16/the-taming-of-the-world-why-america-is-not-a-modern-rome/
 created_at: 2007-03-17 04:45:00.000000000 Z
 updated_at: 2012-03-22 05:51:46.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 333
 drupal_id: 4257
 title: 'The Second Album, Part 3: Progress'
-permalink: /blog/2006/12/02/the-second-album-part-3-progress
+permalink: /blog/2006/12/02/the-second-album-part-3-progress/
 created_at: 2006-12-02 06:20:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

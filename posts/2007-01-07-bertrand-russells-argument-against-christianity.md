@@ -2,7 +2,7 @@
 id: 307
 drupal_id: 4287
 title: Bertrand Russell's Argument against Christianity
-permalink: /blog/2007/01/07/bertrand-russells-argument-against-christianity
+permalink: /blog/2007/01/07/bertrand-russells-argument-against-christianity/
 created_at: 2007-01-07 08:27:00.000000000 Z
 updated_at: 2011-08-21 04:11:18.000000000 Z
 promoted: true

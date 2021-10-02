@@ -2,7 +2,7 @@
 id: 345
 drupal_id: 4245
 title: Can Musicians Have Opinions?
-permalink: /blog/2006/11/16/can-musicians-have-opinions
+permalink: /blog/2006/11/16/can-musicians-have-opinions/
 created_at: 2006-11-17 00:45:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

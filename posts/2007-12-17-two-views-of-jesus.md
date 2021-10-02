@@ -2,7 +2,7 @@
 id: 260
 drupal_id: 4341
 title: Two Views of Jesus
-permalink: /blog/2007/12/17/two-views-of-jesus
+permalink: /blog/2007/12/17/two-views-of-jesus/
 created_at: 2007-12-17 16:42:00.000000000 Z
 updated_at: 2012-03-09 06:18:18.000000000 Z
 promoted: true

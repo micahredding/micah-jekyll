@@ -2,7 +2,7 @@
 id: 143
 drupal_id: 4450
 title: I will not increase my productivity
-permalink: /blog/2011/11/16/i-will-not-increase-my-productivity
+permalink: /blog/2011/11/16/i-will-not-increase-my-productivity/
 created_at: 2011-11-16 20:51:27.000000000 Z
 updated_at: 2011-11-16 20:58:00.000000000 Z
 promoted: true

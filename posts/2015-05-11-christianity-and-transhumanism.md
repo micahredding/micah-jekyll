@@ -2,7 +2,7 @@
 id: 9
 drupal_id: 4588
 title: Christianity & Transhumanism
-permalink: /blog/christianity-and-transhumanism
+permalink: /blog/christianity-and-transhumanism/
 created_at: 2015-05-11 13:25:56.000000000 Z
 updated_at: 2016-02-08 21:40:08.242270000 Z
 state: published

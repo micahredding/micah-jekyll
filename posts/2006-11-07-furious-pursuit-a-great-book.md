@@ -2,7 +2,7 @@
 id: 349
 drupal_id: 4241
 title: Furious Pursuit - a great book
-permalink: /blog/2006/11/07/furious-pursuit-a-great-book
+permalink: /blog/2006/11/07/furious-pursuit-a-great-book/
 created_at: 2006-11-07 23:30:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

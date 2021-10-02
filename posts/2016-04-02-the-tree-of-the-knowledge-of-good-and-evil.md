@@ -1,7 +1,7 @@
 ---
 id: 487
 title: The Tree of the Knowledge of Good and Evil
-permalink: /blog/the-tree-of-the-knowledge-of-good-and-evil
+permalink: /blog/the-tree-of-the-knowledge-of-good-and-evil/
 created_at: 2016-04-02 16:44:11.225178000 Z
 updated_at: 2017-04-14 14:28:00.231141000 Z
 promoted: true

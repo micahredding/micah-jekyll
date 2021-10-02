@@ -2,7 +2,7 @@
 id: 379
 drupal_id: 4211
 title: Street Performing
-permalink: /blog/2005/08/26/street-performing
+permalink: /blog/2005/08/26/street-performing/
 created_at: 2005-08-26 16:14:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

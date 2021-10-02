@@ -2,7 +2,7 @@
 id: 452
 drupal_id: 4138
 title: Gabe back safe and unsound (mentally, that is)
-permalink: /blog/2004/11/16/gabe-back-safe-and-unsound-mentally-that-is
+permalink: /blog/2004/11/16/gabe-back-safe-and-unsound-mentally-that-is/
 created_at: 2004-11-16 09:06:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 193
 drupal_id: 4381
 title: Life, The Multiverse, and Everything
-permalink: /blog/2010/02/01/life-the-multiverse-and-everything
+permalink: /blog/2010/02/01/life-the-multiverse-and-everything/
 created_at: 2010-02-01 23:44:09.000000000 Z
 updated_at: 2011-10-10 03:05:59.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 152
 drupal_id: 4441
 title: Thoughts on Science and Religion
-permalink: /blog/2011/10/10/thoughts-science-and-religion
+permalink: /blog/2011/10/10/thoughts-science-and-religion/
 created_at: 2011-10-10 12:45:56.000000000 Z
 updated_at: 2011-10-10 12:45:56.000000000 Z
 promoted: true

@@ -1,7 +1,7 @@
 ---
 id: 495
 title: 'Minimum Viable Theology: We Are Not Alone'
-permalink: /blog/minimum-viable-theology-we-are-not-alone
+permalink: /blog/minimum-viable-theology-we-are-not-alone/
 created_at: 2016-07-12 13:34:14.545759000 Z
 updated_at: 2017-04-14 14:28:00.329080000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 37
 drupal_id: 4559
 title: Three strains of religious transhumanism
-permalink: /blog/2013/10/29/three-strains-religious-transhumanism
+permalink: /blog/2013/10/29/three-strains-religious-transhumanism/
 created_at: 2013-10-29 22:52:57.000000000 Z
 updated_at: 2017-04-14 14:27:58.463167000 Z
 promoted: true

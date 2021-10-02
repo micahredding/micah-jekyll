@@ -2,7 +2,7 @@
 id: 258
 drupal_id: 4343
 title: 'I''m Not There: Bob Dylan and The Spirit'
-permalink: /blog/2007/12/28/im-not-there-bob-dylan-and-the-spirit
+permalink: /blog/2007/12/28/im-not-there-bob-dylan-and-the-spirit/
 created_at: 2007-12-28 14:19:00.000000000 Z
 updated_at: 2012-03-22 06:04:05.000000000 Z
 promoted: true

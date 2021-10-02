@@ -2,7 +2,7 @@
 id: 455
 drupal_id: 4135
 title: DVD TV Series - 24
-permalink: /blog/2004/11/01/dvd-tv-series-24
+permalink: /blog/2004/11/01/dvd-tv-series-24/
 created_at: 2004-11-01 09:40:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

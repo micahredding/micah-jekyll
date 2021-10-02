@@ -1,7 +1,7 @@
 ---
 id: 558
 title: Mary, Mother of God, Catholic Transhumanist Wonder Woman
-permalink: /blog/mary-mother-of-god
+permalink: /blog/mary-mother-of-god/
 created_at: 2018-03-08 18:00:00.000000000 Z
 updated_at: 2018-03-08 18:00:00.000000000 Z
 promoted: true

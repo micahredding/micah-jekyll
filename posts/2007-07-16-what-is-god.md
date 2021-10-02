@@ -2,7 +2,7 @@
 id: 273
 drupal_id: 4325
 title: WHAT is God?
-permalink: /blog/2007/07/16/what-is-god
+permalink: /blog/2007/07/16/what-is-god/
 created_at: 2007-07-16 20:46:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

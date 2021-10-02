@@ -1,7 +1,7 @@
 ---
 id: 534
 title: Partnership with God
-permalink: /blog/partnership-with-god
+permalink: /blog/partnership-with-god/
 created_at: 2017-01-03 20:59:32.503273000 Z
 updated_at: 2017-01-03 21:00:47.690243000 Z
 promoted: true

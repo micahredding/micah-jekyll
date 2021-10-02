@@ -2,7 +2,7 @@
 id: 63
 drupal_id: 4533
 title: Things I've been meaning to write about
-permalink: /blog/2012/10/06/things-ive-been-meaning-write-about
+permalink: /blog/2012/10/06/things-ive-been-meaning-write-about/
 created_at: 2012-10-06 14:43:29.000000000 Z
 updated_at: 2012-10-06 14:44:53.000000000 Z
 promoted: true

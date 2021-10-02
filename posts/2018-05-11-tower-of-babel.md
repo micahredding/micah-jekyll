@@ -1,7 +1,7 @@
 ---
 id: 560
 title: The Tower of Babel
-permalink: /blog/tower-of-babel
+permalink: /blog/tower-of-babel/
 created_at: 2018-05-11 14:30:41.637215000 Z
 updated_at: 2018-05-11 14:53:12.833406000 Z
 promoted: true

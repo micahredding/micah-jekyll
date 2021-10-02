@@ -2,7 +2,7 @@
 id: 44
 drupal_id: 4552
 title: Iron Man and the Modern Identity Crisis
-permalink: /blog/2013/06/07/iron-man-and-modern-identity-crisis
+permalink: /blog/2013/06/07/iron-man-and-modern-identity-crisis/
 created_at: 2013-06-07 05:11:16.000000000 Z
 updated_at: 2017-11-10 02:54:23.619869000 Z
 promoted: true

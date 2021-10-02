@@ -2,7 +2,7 @@
 id: 111
 drupal_id: 4483
 title: The Existence of God?
-permalink: /blog/2012/02/13/existence-god
+permalink: /blog/2012/02/13/existence-god/
 created_at: 2012-02-13 16:27:50.000000000 Z
 updated_at: 2012-11-27 14:30:22.000000000 Z
 promoted: true

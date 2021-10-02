@@ -2,7 +2,7 @@
 id: 29
 drupal_id: 4568
 title: The Comprehensiveness of Orthodoxy
-permalink: /blog/2014/09/02/comprehensiveness-orthodoxy
+permalink: /blog/2014/09/02/comprehensiveness-orthodoxy/
 created_at: 2014-09-02 13:00:48.000000000 Z
 updated_at: 2017-04-14 14:27:58.421122000 Z
 promoted: true

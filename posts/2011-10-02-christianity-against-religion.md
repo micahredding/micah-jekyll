@@ -2,7 +2,7 @@
 id: 155
 drupal_id: 4438
 title: Christianity against religion
-permalink: /blog/2011/10/02/christianity-against-religion
+permalink: /blog/2011/10/02/christianity-against-religion/
 created_at: 2011-10-03 04:10:51.000000000 Z
 updated_at: 2015-02-16 17:07:03.000000000 Z
 state: published

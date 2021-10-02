@@ -2,7 +2,7 @@
 id: 146
 drupal_id: 4447
 title: Christianity is a platform
-permalink: /blog/2011/11/07/christianity-platform
+permalink: /blog/2011/11/07/christianity-platform/
 created_at: 2011-11-08 02:40:18.000000000 Z
 updated_at: 2017-04-14 14:27:59.031563000 Z
 promoted: true

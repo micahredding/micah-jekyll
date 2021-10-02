@@ -1,6 +1,6 @@
 ---
 title: Wonder Woman
-permalink: /blog/wonder-woman
+permalink: /blog/wonder-woman/
 created_at: 2017-07-04 00:00:00.000000000 Z
 updated_at: 2017-07-04 00:00:00.000000000 Z
 promoted: true

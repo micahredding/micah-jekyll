@@ -2,7 +2,7 @@
 id: 89
 drupal_id: 4507
 title: His enemies beneath his feet...
-permalink: /blog/2012/04/16/his-enemies-beneath-his-feet
+permalink: /blog/2012/04/16/his-enemies-beneath-his-feet/
 created_at: 2012-04-16 16:40:54.000000000 Z
 updated_at: 2014-09-28 22:29:23.000000000 Z
 state: published

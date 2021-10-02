@@ -2,7 +2,7 @@
 id: 243
 drupal_id: 4348
 title: What is Community?
-permalink: /blog/2008/04/02/what-is-community
+permalink: /blog/2008/04/02/what-is-community/
 created_at: 2008-04-03 04:12:00.000000000 Z
 updated_at: 2012-03-10 14:17:29.000000000 Z
 promoted: true

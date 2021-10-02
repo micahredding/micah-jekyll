@@ -1,7 +1,7 @@
 ---
 id: 547
 title: The Purpose of Scripture & Doctrine
-permalink: /blog/the-purpose-of-scripture-and-doctrine
+permalink: /blog/the-purpose-of-scripture-and-doctrine/
 created_at: 2017-08-15 14:33:20.980020000 Z
 updated_at: 2017-08-15 14:57:15.896936000 Z
 promoted: true

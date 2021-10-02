@@ -2,7 +2,7 @@
 id: 142
 drupal_id: 4451
 title: Productivity is just work
-permalink: /blog/2011/11/18/productivity-work
+permalink: /blog/2011/11/18/productivity-work/
 created_at: 2011-11-18 18:21:56.000000000 Z
 updated_at: 2011-11-18 18:29:59.000000000 Z
 promoted: true

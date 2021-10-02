@@ -2,7 +2,7 @@
 id: 329
 drupal_id: 4261
 title: My Day in Court
-permalink: /blog/2006/12/13/my-day-in-court
+permalink: /blog/2006/12/13/my-day-in-court/
 created_at: 2006-12-14 00:40:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

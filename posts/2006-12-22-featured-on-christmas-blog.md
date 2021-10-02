@@ -2,7 +2,7 @@
 id: 322
 drupal_id: 4267
 title: Featured on Christmas Blog
-permalink: /blog/2006/12/22/featured-on-christmas-blog
+permalink: /blog/2006/12/22/featured-on-christmas-blog/
 created_at: 2006-12-22 12:46:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

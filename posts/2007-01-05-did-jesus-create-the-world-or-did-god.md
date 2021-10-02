@@ -2,7 +2,7 @@
 id: 308
 drupal_id: 4286
 title: Did Jesus Create the World? Or did God?
-permalink: /blog/2007/01/05/did-jesus-create-the-world-or-did-god
+permalink: /blog/2007/01/05/did-jesus-create-the-world-or-did-god/
 created_at: 2007-01-05 09:00:00.000000000 Z
 updated_at: 2018-04-11 04:53:29.810892000 Z
 promoted: true

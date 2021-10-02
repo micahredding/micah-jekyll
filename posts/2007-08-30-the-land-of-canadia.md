@@ -2,7 +2,7 @@
 id: 268
 drupal_id: 4314
 title: The Land of Canadia
-permalink: /blog/2007/08/30/the-land-of-canadia
+permalink: /blog/2007/08/30/the-land-of-canadia/
 created_at: 2007-08-30 19:07:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

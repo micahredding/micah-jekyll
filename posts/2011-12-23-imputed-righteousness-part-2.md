@@ -2,7 +2,7 @@
 id: 127
 drupal_id: 4469
 title: imputed righteousness, part 2
-permalink: /blog/2011/12/23/imputed-righteousness-part-2
+permalink: /blog/2011/12/23/imputed-righteousness-part-2/
 created_at: 2011-12-23 22:02:04.000000000 Z
 updated_at: 2014-09-28 22:21:38.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 5
 drupal_id: 4592
 title: The Infinite Morality of Jesus
-permalink: /blog/2015/08/07/infinite-morality-jesus
+permalink: /blog/2015/08/07/infinite-morality-jesus/
 created_at: 2015-08-08 02:43:59.000000000 Z
 updated_at: 2017-04-14 14:27:58.304347000 Z
 promoted: true

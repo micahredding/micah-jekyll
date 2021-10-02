@@ -2,7 +2,7 @@
 id: 109
 drupal_id: 4485
 title: Good and Evil, Paradox and Contradiction
-permalink: /blog/2012/02/23/good-and-evil-paradox-and-contradiction
+permalink: /blog/2012/02/23/good-and-evil-paradox-and-contradiction/
 created_at: 2012-02-23 18:12:15.000000000 Z
 updated_at: 2017-04-14 14:27:58.822117000 Z
 promoted: true

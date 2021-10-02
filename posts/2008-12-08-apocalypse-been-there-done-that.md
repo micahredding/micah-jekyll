@@ -2,7 +2,7 @@
 id: 210
 drupal_id: 4383
 title: 'Apocalypse: Been There, Done That'
-permalink: /blog/2008/12/08/apocalypse-been-there-done-that
+permalink: /blog/2008/12/08/apocalypse-been-there-done-that/
 created_at: 2008-12-08 20:37:00.000000000 Z
 updated_at: 2012-02-07 01:47:04.000000000 Z
 promoted: true

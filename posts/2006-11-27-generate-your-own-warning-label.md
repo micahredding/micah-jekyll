@@ -2,7 +2,7 @@
 id: 335
 drupal_id: 4255
 title: Generate Your Own Warning Label
-permalink: /blog/2006/11/27/generate-your-own-warning-label
+permalink: /blog/2006/11/27/generate-your-own-warning-label/
 created_at: 2006-11-28 04:13:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

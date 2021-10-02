@@ -2,7 +2,7 @@
 id: 203
 drupal_id: 4375
 title: 'Living in the Cloud: Google Voice'
-permalink: /blog/2009/07/28/living-in-the-cloud-google-voice
+permalink: /blog/2009/07/28/living-in-the-cloud-google-voice/
 created_at: 2009-07-29 02:23:10.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 219
 drupal_id: 4365
 title: A Christian Band? - embedding Christianity in life
-permalink: /blog/2008/09/29/a-christian-band-embedding-christianity-in-life
+permalink: /blog/2008/09/29/a-christian-band-embedding-christianity-in-life/
 created_at: 2008-09-29 17:43:00.000000000 Z
 updated_at: 2012-03-09 06:25:46.000000000 Z
 promoted: true

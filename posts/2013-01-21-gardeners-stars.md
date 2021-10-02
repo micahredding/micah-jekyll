@@ -2,7 +2,7 @@
 id: 49
 drupal_id: 4547
 title: Gardeners of the Stars
-permalink: /blog/2013/01/21/gardeners-stars
+permalink: /blog/2013/01/21/gardeners-stars/
 created_at: 2013-01-21 06:01:27.000000000 Z
 updated_at: 2017-04-14 14:27:58.548787000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 87
 drupal_id: 4509
 title: Christianity is Transhumanism
-permalink: /blog/2012/04/25/christianity-transhumanism
+permalink: /blog/2012/04/25/christianity-transhumanism/
 created_at: 2012-04-25 14:34:42.000000000 Z
 updated_at: 2017-07-01 06:26:27.263867000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 158
 drupal_id: 4435
 title: Why I joined the Mormon Transhumanist Association
-permalink: /blog/2011/09/21/why-i-joined-mormon-trashumanist-association
+permalink: /blog/2011/09/21/why-i-joined-mormon-trashumanist-association/
 created_at: 2011-09-22 02:46:55.000000000 Z
 updated_at: 2011-10-10 03:03:31.000000000 Z
 promoted: true

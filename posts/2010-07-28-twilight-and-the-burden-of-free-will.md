@@ -2,7 +2,7 @@
 id: 175
 drupal_id: 4405
 title: Twilight and the burden of free will
-permalink: /blog/2010/07/28/twilight-and-the-burden-of-free-will
+permalink: /blog/2010/07/28/twilight-and-the-burden-of-free-will/
 created_at: 2010-07-28 07:45:15.000000000 Z
 updated_at: 2012-01-04 14:55:28.000000000 Z
 promoted: true

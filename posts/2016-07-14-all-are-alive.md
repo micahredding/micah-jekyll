@@ -1,7 +1,7 @@
 ---
 id: 496
 title: All Are Alive
-permalink: /blog/all-are-alive
+permalink: /blog/all-are-alive/
 created_at: 2016-07-14 13:51:45.614256000 Z
 updated_at: 2017-04-14 14:28:00.336169000 Z
 promoted: true

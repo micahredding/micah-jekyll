@@ -2,7 +2,7 @@
 id: 211
 drupal_id: 4423
 title: 'Interpreting The Bible: A Start'
-permalink: /blog/2008/12/05/interpreting-bible-start
+permalink: /blog/2008/12/05/interpreting-bible-start/
 created_at: 2008-12-05 20:13:29.000000000 Z
 updated_at: 2012-03-19 04:32:26.000000000 Z
 state: published

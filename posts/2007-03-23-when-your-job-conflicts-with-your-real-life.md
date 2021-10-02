@@ -2,7 +2,7 @@
 id: 299
 drupal_id: 4291
 title: When Your Job Conflicts with Your Real Life
-permalink: /blog/2007/03/23/when-your-job-conflicts-with-your-real-life
+permalink: /blog/2007/03/23/when-your-job-conflicts-with-your-real-life/
 created_at: 2007-03-23 11:45:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 312
 drupal_id: 4285
 title: The Future is More Real Than The Past
-permalink: /blog/2007/01/02/the-future-is-more-real-than-the-past
+permalink: /blog/2007/01/02/the-future-is-more-real-than-the-past/
 created_at: 2007-01-02 16:21:00.000000000 Z
 updated_at: 2011-11-02 03:17:19.000000000 Z
 promoted: true

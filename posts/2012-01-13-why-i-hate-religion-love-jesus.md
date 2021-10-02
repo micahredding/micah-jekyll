@@ -2,7 +2,7 @@
 id: 119
 drupal_id: 4475
 title: Why I hate religion, but love Jesus
-permalink: /blog/2012/01/13/why-i-hate-religion-love-jesus
+permalink: /blog/2012/01/13/why-i-hate-religion-love-jesus/
 created_at: 2012-01-13 20:34:52.000000000 Z
 updated_at: 2012-01-13 20:37:40.000000000 Z
 promoted: true

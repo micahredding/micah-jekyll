@@ -2,7 +2,7 @@
 id: 72
 drupal_id: 4524
 title: 'Notes: Will Wright mapping personal data'
-permalink: /blog/2012/08/05/notes-will-wright-mapping-personal-data
+permalink: /blog/2012/08/05/notes-will-wright-mapping-personal-data/
 created_at: 2012-08-05 23:01:35.000000000 Z
 updated_at: 2014-09-28 22:30:12.000000000 Z
 state: published

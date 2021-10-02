@@ -2,7 +2,7 @@
 id: 169
 drupal_id: 4413
 title: Ancient Israelite Violence and The Morality of Roadkill
-permalink: /blog/2011/05/13/ancient-israelite-violence-and-the-morality-of-roadkill
+permalink: /blog/2011/05/13/ancient-israelite-violence-and-the-morality-of-roadkill/
 created_at: 2011-05-13 16:55:37.000000000 Z
 updated_at: 2012-01-03 06:58:13.000000000 Z
 promoted: true

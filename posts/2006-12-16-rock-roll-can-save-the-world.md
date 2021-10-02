@@ -2,7 +2,7 @@
 id: 327
 drupal_id: 4263
 title: Rock & Roll Can Save The World
-permalink: /blog/2006/12/16/rock-roll-can-save-the-world
+permalink: /blog/2006/12/16/rock-roll-can-save-the-world/
 created_at: 2006-12-16 14:26:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 351
 drupal_id: 4239
 title: 'The Second Album, Part 2: Digression'
-permalink: /blog/2006/11/02/the-second-album-part-2-digression
+permalink: /blog/2006/11/02/the-second-album-part-2-digression/
 created_at: 2006-11-02 06:17:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

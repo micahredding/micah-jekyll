@@ -2,7 +2,7 @@
 id: 216
 drupal_id: 4368
 title: Thinking about Genesis
-permalink: /blog/2008/10/17/thinking-about-genesis
+permalink: /blog/2008/10/17/thinking-about-genesis/
 created_at: 2008-10-17 21:11:00.000000000 Z
 updated_at: 2011-08-21 03:39:21.000000000 Z
 promoted: true

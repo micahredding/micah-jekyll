@@ -1,7 +1,7 @@
 ---
 id: 483
 title: My Grandfather
-permalink: /blog/my-grandfather
+permalink: /blog/my-grandfather/
 created_at: 2016-02-16 20:29:59.769704000 Z
 updated_at: 2016-02-16 20:37:13.128601000 Z
 promoted: true

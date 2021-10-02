@@ -2,7 +2,7 @@
 id: 190
 drupal_id: 4390
 title: The Many & Great Commissions
-permalink: /blog/2010/02/08/the-many-great-commissions
+permalink: /blog/2010/02/08/the-many-great-commissions/
 created_at: 2010-02-09 04:03:32.000000000 Z
 updated_at: 2012-01-04 14:57:29.000000000 Z
 promoted: true

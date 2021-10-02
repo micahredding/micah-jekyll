@@ -2,7 +2,7 @@
 id: 225
 drupal_id: 4419
 title: There Is No Hell (part 5), The Use of Language
-permalink: /blog/2008/09/15/there-no-hell-part-5-use-language
+permalink: /blog/2008/09/15/there-no-hell-part-5-use-language/
 created_at: 2008-09-15 15:40:50.000000000 Z
 updated_at: 2019-04-29 16:56:42.030999000 Z
 state: published

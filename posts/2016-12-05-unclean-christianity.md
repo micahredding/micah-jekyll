@@ -1,7 +1,7 @@
 ---
 id: 531
 title: Unclean Christianity
-permalink: /blog/unclean-christianity
+permalink: /blog/unclean-christianity/
 created_at: 2016-12-05 07:28:07.309125000 Z
 updated_at: 2017-04-14 14:28:00.374296000 Z
 promoted: true

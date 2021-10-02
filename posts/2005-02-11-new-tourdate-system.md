@@ -2,7 +2,7 @@
 id: 434
 drupal_id: 4156
 title: New Tourdate System
-permalink: /blog/2005/02/11/new-tourdate-system
+permalink: /blog/2005/02/11/new-tourdate-system/
 created_at: 2005-02-12 01:00:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

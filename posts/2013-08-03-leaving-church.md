@@ -2,7 +2,7 @@
 id: 42
 drupal_id: 4554
 title: Leaving the Church
-permalink: /blog/2013/08/03/leaving-church
+permalink: /blog/2013/08/03/leaving-church/
 created_at: 2013-08-03 19:11:28.000000000 Z
 updated_at: 2017-04-14 14:27:58.482247000 Z
 promoted: true

@@ -1,7 +1,7 @@
 ---
 id: 555
 title: Feedback Loops
-permalink: /blog/feedback-loops
+permalink: /blog/feedback-loops/
 created_at: 2018-02-13 22:13:36.440873000 Z
 updated_at: 2018-02-14 00:39:36.365728000 Z
 promoted: true

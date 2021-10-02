@@ -2,7 +2,7 @@
 id: 255
 drupal_id: 4332
 title: Biography
-permalink: /blog/2008/01/01/biography
+permalink: /blog/2008/01/01/biography/
 created_at: 2008-01-02 01:42:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

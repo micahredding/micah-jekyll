@@ -1,7 +1,7 @@
 ---
 id: 553
 title: 5 Theses for the Next Reformation
-permalink: /blog/5-theses-for-the-next-reformation
+permalink: /blog/5-theses-for-the-next-reformation/
 created_at: 2017-11-01 01:07:17.978148000 Z
 updated_at: 2017-11-01 01:07:17.978148000 Z
 promoted: true

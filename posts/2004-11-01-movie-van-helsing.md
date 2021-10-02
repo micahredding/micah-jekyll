@@ -2,7 +2,7 @@
 id: 456
 drupal_id: 4134
 title: MOVIE - Van Helsing
-permalink: /blog/2004/11/01/movie-van-helsing
+permalink: /blog/2004/11/01/movie-van-helsing/
 created_at: 2004-11-01 09:30:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

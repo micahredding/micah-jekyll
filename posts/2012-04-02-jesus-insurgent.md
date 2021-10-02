@@ -2,7 +2,7 @@
 id: 94
 drupal_id: 4502
 title: Jesus the Insurgent
-permalink: /blog/2012/04/02/jesus-insurgent
+permalink: /blog/2012/04/02/jesus-insurgent/
 created_at: 2012-04-02 13:57:33.000000000 Z
 updated_at: 2017-04-14 14:27:58.722331000 Z
 promoted: true

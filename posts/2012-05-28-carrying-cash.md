@@ -2,7 +2,7 @@
 id: 79
 drupal_id: 4517
 title: Carrying Cash
-permalink: /blog/2012/05/28/carrying-cash
+permalink: /blog/2012/05/28/carrying-cash/
 created_at: 2012-05-28 18:54:00.000000000 Z
 updated_at: 2012-05-28 18:56:38.000000000 Z
 promoted: true

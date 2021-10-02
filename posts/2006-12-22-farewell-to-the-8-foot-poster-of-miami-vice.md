@@ -2,7 +2,7 @@
 id: 321
 drupal_id: 4268
 title: Farewell to the 8-foot poster of Miami Vice
-permalink: /blog/2006/12/22/farewell-to-the-8-foot-poster-of-miami-vice
+permalink: /blog/2006/12/22/farewell-to-the-8-foot-poster-of-miami-vice/
 created_at: 2006-12-23 01:13:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

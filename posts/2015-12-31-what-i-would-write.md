@@ -2,7 +2,7 @@
 id: 2
 drupal_id: 4595
 title: What I Would Write
-permalink: /blog/2015/12/31/what-i-would-write
+permalink: /blog/2015/12/31/what-i-would-write/
 created_at: 2015-12-31 16:09:43.000000000 Z
 updated_at: 2017-04-14 14:27:58.283130000 Z
 promoted: true

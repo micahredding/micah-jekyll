@@ -2,7 +2,7 @@
 id: 367
 drupal_id: 4223
 title: Murphy's Loft Showcase Recap
-permalink: /blog/2005/10/08/murphys-loft-showcase-recap
+permalink: /blog/2005/10/08/murphys-loft-showcase-recap/
 created_at: 2005-10-09 00:27:00.000000000 Z
 updated_at: 2011-10-06 02:19:36.000000000 Z
 promoted: true

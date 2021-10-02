@@ -2,7 +2,7 @@
 id: 270
 drupal_id: 4327
 title: Christianity is Chinese
-permalink: /blog/2007/08/07/christianity-is-chinese
+permalink: /blog/2007/08/07/christianity-is-chinese/
 created_at: 2007-08-08 04:32:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

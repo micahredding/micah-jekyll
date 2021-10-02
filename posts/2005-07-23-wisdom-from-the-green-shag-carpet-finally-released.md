@@ -2,7 +2,7 @@
 id: 385
 drupal_id: 4205
 title: '"Wisdom from the Green Shag Carpet" Finally Released!'
-permalink: /blog/2005/07/23/wisdom-from-the-green-shag-carpet-finally-released
+permalink: /blog/2005/07/23/wisdom-from-the-green-shag-carpet-finally-released/
 created_at: 2005-07-23 18:14:00.000000000 Z
 updated_at: 2011-08-21 04:09:21.000000000 Z
 promoted: true

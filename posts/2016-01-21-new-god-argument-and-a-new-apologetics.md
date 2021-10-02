@@ -2,7 +2,7 @@
 id: 1
 drupal_id: 4596
 title: The New God Argument and A New Apologetics
-permalink: /blog/new-god-argument-and-a-new-apologetics
+permalink: /blog/new-god-argument-and-a-new-apologetics/
 created_at: 2016-01-21 05:33:22.000000000 Z
 updated_at: 2017-11-10 02:22:10.629239000 Z
 promoted: true

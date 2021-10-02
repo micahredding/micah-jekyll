@@ -2,7 +2,7 @@
 id: 301
 drupal_id: 4290
 title: 'Secret Fact #1 - Chauvet'
-permalink: /blog/2007/03/17/secret-fact-1-chauvet
+permalink: /blog/2007/03/17/secret-fact-1-chauvet/
 created_at: 2007-03-17 19:12:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

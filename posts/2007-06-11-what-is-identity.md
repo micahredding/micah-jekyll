@@ -2,7 +2,7 @@
 id: 277
 drupal_id: 4323
 title: What is Identity?
-permalink: /blog/2007/06/11/what-is-identity
+permalink: /blog/2007/06/11/what-is-identity/
 created_at: 2007-06-11 20:24:00.000000000 Z
 updated_at: 2012-03-22 06:00:31.000000000 Z
 promoted: true

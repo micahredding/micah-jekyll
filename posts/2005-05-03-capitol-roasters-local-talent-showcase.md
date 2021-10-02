@@ -2,7 +2,7 @@
 id: 409
 drupal_id: 4181
 title: Capitol Roasters Local Talent Showcase
-permalink: /blog/2005/05/03/capitol-roasters-local-talent-showcase
+permalink: /blog/2005/05/03/capitol-roasters-local-talent-showcase/
 created_at: 2005-05-04 01:06:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

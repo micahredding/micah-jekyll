@@ -2,7 +2,7 @@
 id: 106
 drupal_id: 4488
 title: The Morality of The Rational, and How We Shape Meaning from The Void
-permalink: /blog/2012/02/29/morality-rational-and-how-we-shape-meaning-void
+permalink: /blog/2012/02/29/morality-rational-and-how-we-shape-meaning-void/
 created_at: 2012-02-29 21:29:57.000000000 Z
 updated_at: 2012-11-27 14:30:43.000000000 Z
 promoted: true

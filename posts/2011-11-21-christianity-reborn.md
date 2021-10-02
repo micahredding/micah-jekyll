@@ -2,7 +2,7 @@
 id: 140
 drupal_id: 4454
 title: Christianity reborn
-permalink: /blog/2011/11/21/christianity-reborn
+permalink: /blog/2011/11/21/christianity-reborn/
 created_at: 2011-11-21 16:18:32.000000000 Z
 updated_at: 2011-12-09 20:23:14.000000000 Z
 state: published

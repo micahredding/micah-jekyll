@@ -1,7 +1,7 @@
 ---
 id: 540
 title: Why the Lego Batman Movie might Save Civilization
-permalink: /blog/why-the-lego-batman-movie-might-save-civilization
+permalink: /blog/why-the-lego-batman-movie-might-save-civilization/
 created_at: 2017-02-13 20:51:14.561535000 Z
 updated_at: 2017-02-14 04:37:35.983429000 Z
 promoted: true

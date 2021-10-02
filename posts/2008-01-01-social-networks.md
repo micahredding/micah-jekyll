@@ -2,7 +2,7 @@
 id: 256
 drupal_id: 4331
 title: Social Networks
-permalink: /blog/2008/01/01/social-networks
+permalink: /blog/2008/01/01/social-networks/
 created_at: 2008-01-02 00:37:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

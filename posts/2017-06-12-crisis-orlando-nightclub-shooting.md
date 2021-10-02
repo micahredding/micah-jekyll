@@ -1,7 +1,7 @@
 ---
 id: 545
 title: Crisis
-permalink: /blog/crisis-orlando-nightclub-shooting
+permalink: /blog/crisis-orlando-nightclub-shooting/
 created_at: 2017-06-12 11:34:05.835264000 Z
 updated_at: 2017-06-12 11:50:50.641831000 Z
 promoted: true

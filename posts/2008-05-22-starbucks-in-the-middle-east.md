@@ -2,7 +2,7 @@
 id: 239
 drupal_id: 4352
 title: Starbucks in the Middle East
-permalink: /blog/2008/05/22/starbucks-in-the-middle-east
+permalink: /blog/2008/05/22/starbucks-in-the-middle-east/
 created_at: 2008-05-23 03:11:00.000000000 Z
 updated_at: 2012-03-09 06:26:02.000000000 Z
 promoted: true

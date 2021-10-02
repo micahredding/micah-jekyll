@@ -2,7 +2,7 @@
 id: 28
 drupal_id: 4569
 title: Politics is Metaphysics
-permalink: /blog/2014/09/14/politics-metaphysics
+permalink: /blog/2014/09/14/politics-metaphysics/
 created_at: 2014-09-15 03:46:44.000000000 Z
 updated_at: 2017-04-14 14:27:58.415926000 Z
 promoted: true

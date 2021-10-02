@@ -2,7 +2,7 @@
 id: 207
 drupal_id: 4385
 title: Reading the Bible literally?
-permalink: /blog/2008/12/19/reading-the-bible-literally
+permalink: /blog/2008/12/19/reading-the-bible-literally/
 created_at: 2008-12-19 23:22:00.000000000 Z
 updated_at: 2012-03-09 05:37:51.000000000 Z
 promoted: true

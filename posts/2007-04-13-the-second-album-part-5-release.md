@@ -2,7 +2,7 @@
 id: 290
 drupal_id: 4295
 title: 'The Second Album, Part 5: Release'
-permalink: /blog/2007/04/13/the-second-album-part-5-release
+permalink: /blog/2007/04/13/the-second-album-part-5-release/
 created_at: 2007-04-14 04:46:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

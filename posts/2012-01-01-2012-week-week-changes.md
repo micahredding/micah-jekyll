@@ -2,7 +2,7 @@
 id: 123
 drupal_id: 4471
 title: 2012 week-by-week changes
-permalink: /blog/2012/01/01/2012-week-week-changes
+permalink: /blog/2012/01/01/2012-week-week-changes/
 created_at: 2012-01-01 23:26:48.000000000 Z
 updated_at: 2012-09-13 00:51:38.000000000 Z
 state: published

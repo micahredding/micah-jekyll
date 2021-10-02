@@ -1,7 +1,7 @@
 ---
 id: 541
 title: How to handle God’s audacious vision for humanity
-permalink: /blog/how-to-handle-gods-audacious-vision-for-humanity
+permalink: /blog/how-to-handle-gods-audacious-vision-for-humanity/
 created_at: 2017-02-21 22:04:57.871603000 Z
 updated_at: 2017-02-21 22:09:51.710482000 Z
 promoted: true

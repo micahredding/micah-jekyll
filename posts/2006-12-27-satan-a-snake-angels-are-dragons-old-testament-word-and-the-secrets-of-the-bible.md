@@ -3,7 +3,7 @@ id: 319
 drupal_id: 4282
 title: Satan a Snake? Angels are Dragons? Old Testament Word and The Secrets of the
   Bible
-permalink: /blog/2006/12/27/satan-a-snake-angels-are-dragons-old-testament-word-and-the-secrets-of-the-bible
+permalink: /blog/2006/12/27/satan-a-snake-angels-are-dragons-old-testament-word-and-the-secrets-of-the-bible/
 created_at: 2006-12-27 07:13:00.000000000 Z
 updated_at: 2015-01-30 18:07:27.000000000 Z
 promoted: true

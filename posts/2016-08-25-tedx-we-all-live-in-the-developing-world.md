@@ -1,7 +1,7 @@
 ---
 id: 498
 title: 'My TEDx talk: We All Live in the Developing World'
-permalink: /blog/tedx-we-all-live-in-the-developing-world
+permalink: /blog/tedx-we-all-live-in-the-developing-world/
 created_at: 2016-08-25 21:38:29.622608000 Z
 updated_at: 2017-04-14 14:28:00.353444000 Z
 promoted: true

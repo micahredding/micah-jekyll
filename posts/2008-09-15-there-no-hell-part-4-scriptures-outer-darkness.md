@@ -2,7 +2,7 @@
 id: 226
 drupal_id: 4418
 title: There Is No Hell (part 4), The Scriptures, Outer Darkness
-permalink: /blog/2008/09/15/there-no-hell-part-4-scriptures-outer-darkness
+permalink: /blog/2008/09/15/there-no-hell-part-4-scriptures-outer-darkness/
 created_at: 2008-09-15 15:36:15.000000000 Z
 updated_at: 2019-04-29 16:53:45.004748000 Z
 state: published

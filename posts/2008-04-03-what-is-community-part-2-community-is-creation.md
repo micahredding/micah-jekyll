@@ -2,7 +2,7 @@
 id: 242
 drupal_id: 4349
 title: 'What is Community? Part 2 : Community is Creation'
-permalink: /blog/2008/04/03/what-is-community-part-2-community-is-creation
+permalink: /blog/2008/04/03/what-is-community-part-2-community-is-creation/
 created_at: 2008-04-03 17:27:00.000000000 Z
 updated_at: 2012-03-10 14:17:18.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 32
 drupal_id: 4564
 title: Consumerism
-permalink: /blog/2014/08/23/consumerism
+permalink: /blog/2014/08/23/consumerism/
 created_at: 2014-08-23 17:42:31.000000000 Z
 updated_at: 2017-04-14 14:27:58.438250000 Z
 promoted: true

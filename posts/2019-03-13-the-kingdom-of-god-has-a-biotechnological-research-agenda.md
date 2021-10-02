@@ -1,7 +1,7 @@
 ---
 id: 564
 title: The Kingdom of God has a biotechnological research agenda
-permalink: /blog/the-kingdom-of-god-has-a-biotechnological-research-agenda
+permalink: /blog/the-kingdom-of-god-has-a-biotechnological-research-agenda/
 created_at: 2019-03-13 21:42:58.263145000 Z
 updated_at: 2019-03-13 22:11:32.570383000 Z
 promoted: true

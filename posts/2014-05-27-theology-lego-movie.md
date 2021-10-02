@@ -2,7 +2,7 @@
 id: 35
 drupal_id: 4561
 title: The Theology of the Lego Movie
-permalink: /blog/2014/05/27/theology-lego-movie
+permalink: /blog/2014/05/27/theology-lego-movie/
 created_at: 2014-05-27 13:23:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.453383000 Z
 promoted: true

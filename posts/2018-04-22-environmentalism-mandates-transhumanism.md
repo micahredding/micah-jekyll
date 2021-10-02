@@ -1,7 +1,7 @@
 ---
 id: 559
 title: Environmentalism Mandates Transhumanism
-permalink: /blog/environmentalism-mandates-transhumanism
+permalink: /blog/environmentalism-mandates-transhumanism/
 created_at: 2018-04-22 18:50:55.833947000 Z
 updated_at: 2018-04-22 19:24:51.035430000 Z
 promoted: true

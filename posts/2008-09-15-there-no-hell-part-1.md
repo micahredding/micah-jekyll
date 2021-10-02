@@ -2,7 +2,7 @@
 id: 229
 drupal_id: 4415
 title: There Is No Hell (part 1)
-permalink: /blog/2008/09/15/there-no-hell-part-1
+permalink: /blog/2008/09/15/there-no-hell-part-1/
 created_at: 2008-09-15 15:26:37.000000000 Z
 updated_at: 2019-04-29 16:42:06.077887000 Z
 state: published

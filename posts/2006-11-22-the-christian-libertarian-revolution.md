@@ -2,7 +2,7 @@
 id: 342
 drupal_id: 4248
 title: The Christian Libertarian Revolution
-permalink: /blog/2006/11/22/the-christian-libertarian-revolution
+permalink: /blog/2006/11/22/the-christian-libertarian-revolution/
 created_at: 2006-11-23 03:02:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

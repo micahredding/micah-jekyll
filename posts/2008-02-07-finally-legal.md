@@ -2,7 +2,7 @@
 id: 250
 drupal_id: 4334
 title: Finally Legal
-permalink: /blog/2008/02/07/finally-legal
+permalink: /blog/2008/02/07/finally-legal/
 created_at: 2008-02-07 23:39:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

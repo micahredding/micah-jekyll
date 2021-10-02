@@ -2,7 +2,7 @@
 id: 93
 drupal_id: 4503
 title: Why I am speaking at the Mormon Transhumanist Conference
-permalink: /blog/2012/04/03/why-i-am-speaking-mormon-transhumanist-conference
+permalink: /blog/2012/04/03/why-i-am-speaking-mormon-transhumanist-conference/
 created_at: 2012-04-03 14:40:40.000000000 Z
 updated_at: 2012-04-03 14:42:13.000000000 Z
 promoted: true

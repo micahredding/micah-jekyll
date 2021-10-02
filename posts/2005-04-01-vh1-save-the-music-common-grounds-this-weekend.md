@@ -2,7 +2,7 @@
 id: 425
 drupal_id: 4165
 title: VH1 Save The Music - Common Grounds - This Weekend
-permalink: /blog/2005/04/01/vh1-save-the-music-common-grounds-this-weekend
+permalink: /blog/2005/04/01/vh1-save-the-music-common-grounds-this-weekend/
 created_at: 2005-04-01 23:42:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

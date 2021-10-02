@@ -2,7 +2,7 @@
 id: 186
 drupal_id: 4394
 title: Conversations with God?
-permalink: /blog/2010/04/10/conversations-with-god
+permalink: /blog/2010/04/10/conversations-with-god/
 created_at: 2010-04-10 14:55:52.000000000 Z
 updated_at: 2012-01-04 14:56:51.000000000 Z
 promoted: true

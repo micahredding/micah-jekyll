@@ -2,7 +2,7 @@
 id: 460
 drupal_id: 4130
 title: Radio appearance! New version of Mr. Rogers available - 10/07/04
-permalink: /blog/2004/10/08/radio-appearance-new-version-of-mr-rogers-available-100704
+permalink: /blog/2004/10/08/radio-appearance-new-version-of-mr-rogers-available-100704/
 created_at: 2004-10-08 07:31:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

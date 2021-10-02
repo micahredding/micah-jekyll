@@ -2,7 +2,7 @@
 id: 261
 drupal_id: 4340
 title: Back in the Saddle Again...
-permalink: /blog/2007/12/10/back-in-the-saddle-again
+permalink: /blog/2007/12/10/back-in-the-saddle-again/
 created_at: 2007-12-10 21:56:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

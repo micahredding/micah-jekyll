@@ -2,7 +2,7 @@
 id: 202
 drupal_id: 4376
 title: 3 things that have inspired me
-permalink: /blog/2009/10/24/3-things-that-have-inspired-me
+permalink: /blog/2009/10/24/3-things-that-have-inspired-me/
 created_at: 2009-10-25 02:43:27.000000000 Z
 updated_at: 2012-03-09 06:15:14.000000000 Z
 promoted: true

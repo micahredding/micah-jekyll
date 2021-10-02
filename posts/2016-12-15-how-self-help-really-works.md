@@ -1,7 +1,7 @@
 ---
 id: 533
 title: How Self-Help Really Works
-permalink: /blog/how-self-help-really-works
+permalink: /blog/how-self-help-really-works/
 created_at: 2016-12-15 00:37:19.786839000 Z
 updated_at: 2016-12-31 16:37:46.225892000 Z
 promoted: true

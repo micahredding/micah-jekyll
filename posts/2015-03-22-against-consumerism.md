@@ -2,7 +2,7 @@
 id: 15
 drupal_id: 4582
 title: Against Consumerism
-permalink: /blog/2015/03/22/against-consumerism
+permalink: /blog/2015/03/22/against-consumerism/
 created_at: 2015-03-23 04:41:34.000000000 Z
 updated_at: 2017-11-10 02:25:12.020643000 Z
 promoted: true

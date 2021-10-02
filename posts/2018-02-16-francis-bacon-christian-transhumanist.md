@@ -1,7 +1,7 @@
 ---
 id: 556
 title: Francis Bacon, Christian Transhumanist
-permalink: /blog/francis-bacon-christian-transhumanist
+permalink: /blog/francis-bacon-christian-transhumanist/
 created_at: 2018-02-16 04:08:48.341021000 Z
 updated_at: 2018-02-16 22:11:37.478903000 Z
 promoted: true

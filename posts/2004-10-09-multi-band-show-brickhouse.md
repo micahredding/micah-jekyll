@@ -2,7 +2,7 @@
 id: 459
 drupal_id: 4131
 title: Multi-band show @ Brickhouse
-permalink: /blog/2004/10/09/multi-band-show-brickhouse
+permalink: /blog/2004/10/09/multi-band-show-brickhouse/
 created_at: 2004-10-09 07:32:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

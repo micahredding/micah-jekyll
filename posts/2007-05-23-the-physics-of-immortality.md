@@ -2,7 +2,7 @@
 id: 283
 drupal_id: 4308
 title: The Physics of Immortality
-permalink: /blog/2007/05/23/the-physics-of-immortality
+permalink: /blog/2007/05/23/the-physics-of-immortality/
 created_at: 2007-05-23 06:41:00.000000000 Z
 updated_at: 2011-10-10 03:03:58.000000000 Z
 promoted: true

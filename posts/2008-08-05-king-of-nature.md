@@ -2,7 +2,7 @@
 id: 235
 drupal_id: 4350
 title: King of Nature
-permalink: /blog/2008/08/05/king-of-nature
+permalink: /blog/2008/08/05/king-of-nature/
 created_at: 2008-08-05 13:59:00.000000000 Z
 updated_at: 2012-03-09 05:48:54.000000000 Z
 promoted: true

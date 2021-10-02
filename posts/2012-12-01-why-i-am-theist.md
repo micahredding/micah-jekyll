@@ -2,7 +2,7 @@
 id: 56
 drupal_id: 4540
 title: Why I am a theist
-permalink: /blog/2012/12/01/why-i-am-theist
+permalink: /blog/2012/12/01/why-i-am-theist/
 created_at: 2012-12-02 05:52:03.000000000 Z
 updated_at: 2012-12-02 06:13:49.000000000 Z
 promoted: true

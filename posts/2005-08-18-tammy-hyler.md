@@ -2,7 +2,7 @@
 id: 380
 drupal_id: 4210
 title: Tammy Hyler
-permalink: /blog/2005/08/18/tammy-hyler
+permalink: /blog/2005/08/18/tammy-hyler/
 created_at: 2005-08-18 09:09:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

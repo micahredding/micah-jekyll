@@ -2,7 +2,7 @@
 id: 176
 drupal_id: 4404
 title: In the first century
-permalink: /blog/2010/05/01/in-the-first-century
+permalink: /blog/2010/05/01/in-the-first-century/
 created_at: 2010-05-01 05:11:05.000000000 Z
 updated_at: 2012-01-04 14:55:39.000000000 Z
 promoted: true

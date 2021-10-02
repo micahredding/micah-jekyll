@@ -2,7 +2,7 @@
 id: 204
 drupal_id: 4374
 title: Living in the Cloud
-permalink: /blog/2009/07/23/living-in-the-cloud
+permalink: /blog/2009/07/23/living-in-the-cloud/
 created_at: 2009-07-23 14:27:03.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

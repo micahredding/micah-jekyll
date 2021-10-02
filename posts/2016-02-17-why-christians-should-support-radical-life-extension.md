@@ -1,7 +1,7 @@
 ---
 id: 484
 title: Why Christians Should Support Radical Life Extension
-permalink: /blog/2016/02/17/why-christians-should-support-radical-life-extension
+permalink: /blog/2016/02/17/why-christians-should-support-radical-life-extension/
 created_at: 2016-02-17 16:09:47.848621000 Z
 updated_at: 2018-05-23 05:20:23.638111000 Z
 promoted: true

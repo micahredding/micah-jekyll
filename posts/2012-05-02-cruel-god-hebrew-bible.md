@@ -2,7 +2,7 @@
 id: 83
 drupal_id: 4513
 title: The Cruel God of the Hebrew Bible
-permalink: /blog/2012/05/02/cruel-god-hebrew-bible
+permalink: /blog/2012/05/02/cruel-god-hebrew-bible/
 created_at: 2012-05-02 17:19:51.000000000 Z
 updated_at: 2017-04-14 14:27:58.677676000 Z
 promoted: true

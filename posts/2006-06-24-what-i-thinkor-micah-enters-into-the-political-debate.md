@@ -2,7 +2,7 @@
 id: 354
 drupal_id: 4236
 title: What I think...or, Micah enters into the political debate
-permalink: /blog/2006/06/24/what-i-thinkor-micah-enters-into-the-political-debate
+permalink: /blog/2006/06/24/what-i-thinkor-micah-enters-into-the-political-debate/
 created_at: 2006-06-24 07:19:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

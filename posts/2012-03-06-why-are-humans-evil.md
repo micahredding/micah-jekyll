@@ -2,7 +2,7 @@
 id: 102
 drupal_id: 4493
 title: Why are humans Evil?
-permalink: /blog/2012/03/06/why-are-humans-evil
+permalink: /blog/2012/03/06/why-are-humans-evil/
 created_at: 2012-03-06 17:37:32.000000000 Z
 updated_at: 2017-04-14 14:27:58.775254000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 74
 drupal_id: 4522
 title: The Mountain That Bested Me
-permalink: /blog/2012/07/19/mountain-bested-me
+permalink: /blog/2012/07/19/mountain-bested-me/
 created_at: 2012-07-19 14:52:08.000000000 Z
 updated_at: 2017-04-14 14:27:58.643758000 Z
 promoted: true

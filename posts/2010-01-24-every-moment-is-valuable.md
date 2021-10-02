@@ -2,7 +2,7 @@
 id: 195
 drupal_id: 4379
 title: every moment is valuable
-permalink: /blog/2010/01/24/every-moment-is-valuable
+permalink: /blog/2010/01/24/every-moment-is-valuable/
 created_at: 2010-01-25 04:30:35.000000000 Z
 updated_at: 2012-03-09 05:33:52.000000000 Z
 promoted: true

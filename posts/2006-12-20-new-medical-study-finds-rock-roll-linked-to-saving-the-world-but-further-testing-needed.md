@@ -3,7 +3,7 @@ id: 324
 drupal_id: 4266
 title: New medical study finds "Rock & Roll Linked to Saving the World", but further
   testing needed
-permalink: /blog/2006/12/20/new-medical-study-finds-rock-roll-linked-to-saving-the-world-but-further-testing-needed
+permalink: /blog/2006/12/20/new-medical-study-finds-rock-roll-linked-to-saving-the-world-but-further-testing-needed/
 created_at: 2006-12-20 20:50:00.000000000 Z
 updated_at: 2011-09-22 13:23:03.000000000 Z
 promoted: true

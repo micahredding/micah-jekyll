@@ -1,7 +1,7 @@
 ---
 id: 561
 title: Be Thou My Vision, the Royal Wedding & Theosis
-permalink: /blog/be-thou-my-vision-and-theosis
+permalink: /blog/be-thou-my-vision-and-theosis/
 created_at: 2018-05-20 22:50:33.890115000 Z
 updated_at: 2019-11-11 03:03:38.271883000 Z
 promoted: true

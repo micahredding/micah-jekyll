@@ -2,7 +2,7 @@
 id: 166
 drupal_id: 4428
 title: 'Protocols: Files'
-permalink: /blog/2011/08/31/protocols-files
+permalink: /blog/2011/08/31/protocols-files/
 created_at: 2011-08-31 05:46:50.000000000 Z
 updated_at: 2013-01-11 06:43:51.000000000 Z
 state: published

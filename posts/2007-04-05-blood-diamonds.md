@@ -2,7 +2,7 @@
 id: 294
 drupal_id: 4303
 title: Blood Diamonds
-permalink: /blog/2007/04/05/blood-diamonds
+permalink: /blog/2007/04/05/blood-diamonds/
 created_at: 2007-04-05 06:27:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true

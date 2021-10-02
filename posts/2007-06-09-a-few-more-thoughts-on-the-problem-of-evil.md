@@ -2,7 +2,7 @@
 id: 278
 drupal_id: 4322
 title: "(A Few) More Thoughts on The Problem of Evil"
-permalink: /blog/2007/06/09/a-few-more-thoughts-on-the-problem-of-evil
+permalink: /blog/2007/06/09/a-few-more-thoughts-on-the-problem-of-evil/
 created_at: 2007-06-09 15:56:00.000000000 Z
 updated_at: 2011-12-24 22:57:27.000000000 Z
 promoted: true

@@ -2,7 +2,7 @@
 id: 100
 drupal_id: 4495
 title: References for Christianity as Anthropology
-permalink: /blog/2012/03/11/references-christianity-anthropology
+permalink: /blog/2012/03/11/references-christianity-anthropology/
 created_at: 2012-03-11 20:39:49.000000000 Z
 updated_at: 2014-09-28 22:28:45.000000000 Z
 state: published

@@ -2,7 +2,7 @@
 id: 320
 drupal_id: 4281
 title: The Simplicity of Revelation and Eschatology
-permalink: /blog/2006/12/26/the-simplicity-of-revelation-and-eschatology
+permalink: /blog/2006/12/26/the-simplicity-of-revelation-and-eschatology/
 created_at: 2006-12-26 06:59:00.000000000 Z
 updated_at: 2012-03-22 05:47:10.000000000 Z
 promoted: true

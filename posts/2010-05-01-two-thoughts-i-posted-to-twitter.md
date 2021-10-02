@@ -2,7 +2,7 @@
 id: 177
 drupal_id: 4403
 title: Two thoughts I posted to Twitter
-permalink: /blog/2010/05/01/two-thoughts-i-posted-to-twitter
+permalink: /blog/2010/05/01/two-thoughts-i-posted-to-twitter/
 created_at: 2010-05-01 05:02:40.000000000 Z
 updated_at: 2012-01-04 14:56:12.000000000 Z
 promoted: true

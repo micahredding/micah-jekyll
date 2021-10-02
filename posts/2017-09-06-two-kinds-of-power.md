@@ -1,7 +1,7 @@
 ---
 id: 550
 title: 'Two Kinds of Power: Why Fascists Can''t Make Art'
-permalink: /blog/two-kinds-of-power
+permalink: /blog/two-kinds-of-power/
 created_at: 2017-09-06 14:29:27.812790000 Z
 updated_at: 2018-02-16 23:04:30.165259000 Z
 promoted: true

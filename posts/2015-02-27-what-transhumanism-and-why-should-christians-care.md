@@ -2,7 +2,7 @@
 id: 17
 drupal_id: 4580
 title: What is Transhumanism? And why should Christians care?
-permalink: /blog/2015/02/27/what-transhumanism-and-why-should-christians-care
+permalink: /blog/2015/02/27/what-transhumanism-and-why-should-christians-care/
 created_at: 2015-02-27 06:36:56.000000000 Z
 updated_at: 2017-11-10 02:23:51.812103000 Z
 promoted: true

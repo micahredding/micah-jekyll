@@ -2,7 +2,7 @@
 id: 85
 drupal_id: 4511
 title: Maybe I was wrong
-permalink: /blog/2012/04/30/maybe-i-was-wrong
+permalink: /blog/2012/04/30/maybe-i-was-wrong/
 created_at: 2012-05-01 02:05:04.000000000 Z
 updated_at: 2014-09-28 22:29:29.000000000 Z
 state: published

@@ -2,7 +2,7 @@
 id: 238
 drupal_id: 4359
 title: God Does Not Belong to Anyone
-permalink: /blog/2008/07/20/god-does-not-belong-to-anyone
+permalink: /blog/2008/07/20/god-does-not-belong-to-anyone/
 created_at: 2008-07-20 12:35:00.000000000 Z
 updated_at: 2012-03-09 05:49:48.000000000 Z
 promoted: true
