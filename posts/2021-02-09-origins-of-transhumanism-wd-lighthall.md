@@ -1,6 +1,6 @@
 ---
 title: 'Origins of Transhumanism: W.D. Lighthall' 
-permalink: /blog/origins-of-transhumanism-wd-lighthall /
+permalink: /blog/origins-of-transhumanism-wd-lighthall/
 created_at: 2021-02-09 17:24:00
 updated_at: 2021-02-09 17:24:00
 image: https://res.cloudinary.com/micahredding/image/upload/v1612920859/48792411147_bd2a8265d2_k_u85pbu.jpg
